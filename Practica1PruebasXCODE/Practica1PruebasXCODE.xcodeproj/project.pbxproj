@@ -10,6 +10,11 @@
 		AA3F785A26CB3714009DE61A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AA3F785926CB3714009DE61A /* main.cpp */; };
 		AA3F786626CB37BF009DE61A /* nodoEstudiante.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AA3F786426CB37BF009DE61A /* nodoEstudiante.cpp */; };
 		AA3F786926CB3847009DE61A /* listaEstudiantes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AA3F786726CB3847009DE61A /* listaEstudiantes.cpp */; };
+		AA3F786C26CB769C009DE61A /* nodoError.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AA3F786A26CB769C009DE61A /* nodoError.cpp */; };
+		AA3F786F26CB8402009DE61A /* colaErrores.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AA3F786D26CB8402009DE61A /* colaErrores.cpp */; };
+		AA86E51926CD69D70011438A /* nodoTarea.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AA86E51726CD69D70011438A /* nodoTarea.cpp */; };
+		AA86E51C26CD81100011438A /* listaTareas.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AA86E51A26CD81100011438A /* listaTareas.cpp */; };
+		AA86E51F26CF7BC30011438A /* nodoMatriz.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AA86E51D26CF7BC30011438A /* nodoMatriz.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +36,16 @@
 		AA3F786526CB37BF009DE61A /* nodoEstudiante.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = nodoEstudiante.hpp; sourceTree = "<group>"; };
 		AA3F786726CB3847009DE61A /* listaEstudiantes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = listaEstudiantes.cpp; sourceTree = "<group>"; };
 		AA3F786826CB3847009DE61A /* listaEstudiantes.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = listaEstudiantes.hpp; sourceTree = "<group>"; };
+		AA3F786A26CB769C009DE61A /* nodoError.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = nodoError.cpp; sourceTree = "<group>"; };
+		AA3F786B26CB769C009DE61A /* nodoError.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = nodoError.hpp; sourceTree = "<group>"; };
+		AA3F786D26CB8402009DE61A /* colaErrores.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = colaErrores.cpp; sourceTree = "<group>"; };
+		AA3F786E26CB8402009DE61A /* colaErrores.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = colaErrores.hpp; sourceTree = "<group>"; };
+		AA86E51726CD69D70011438A /* nodoTarea.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = nodoTarea.cpp; sourceTree = "<group>"; };
+		AA86E51826CD69D70011438A /* nodoTarea.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = nodoTarea.hpp; sourceTree = "<group>"; };
+		AA86E51A26CD81100011438A /* listaTareas.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = listaTareas.cpp; sourceTree = "<group>"; };
+		AA86E51B26CD81100011438A /* listaTareas.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = listaTareas.hpp; sourceTree = "<group>"; };
+		AA86E51D26CF7BC30011438A /* nodoMatriz.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = nodoMatriz.cpp; sourceTree = "<group>"; };
+		AA86E51E26CF7BC30011438A /* nodoMatriz.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = nodoMatriz.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +83,16 @@
 				AA3F786526CB37BF009DE61A /* nodoEstudiante.hpp */,
 				AA3F786726CB3847009DE61A /* listaEstudiantes.cpp */,
 				AA3F786826CB3847009DE61A /* listaEstudiantes.hpp */,
+				AA3F786A26CB769C009DE61A /* nodoError.cpp */,
+				AA3F786B26CB769C009DE61A /* nodoError.hpp */,
+				AA3F786D26CB8402009DE61A /* colaErrores.cpp */,
+				AA3F786E26CB8402009DE61A /* colaErrores.hpp */,
+				AA86E51726CD69D70011438A /* nodoTarea.cpp */,
+				AA86E51826CD69D70011438A /* nodoTarea.hpp */,
+				AA86E51A26CD81100011438A /* listaTareas.cpp */,
+				AA86E51B26CD81100011438A /* listaTareas.hpp */,
+				AA86E51D26CF7BC30011438A /* nodoMatriz.cpp */,
+				AA86E51E26CF7BC30011438A /* nodoMatriz.hpp */,
 			);
 			path = Practica1PruebasXCODE;
 			sourceTree = "<group>";
@@ -128,8 +153,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA3F786C26CB769C009DE61A /* nodoError.cpp in Sources */,
+				AA86E51926CD69D70011438A /* nodoTarea.cpp in Sources */,
+				AA86E51C26CD81100011438A /* listaTareas.cpp in Sources */,
 				AA3F785A26CB3714009DE61A /* main.cpp in Sources */,
+				AA3F786F26CB8402009DE61A /* colaErrores.cpp in Sources */,
 				AA3F786626CB37BF009DE61A /* nodoEstudiante.cpp in Sources */,
+				AA86E51F26CF7BC30011438A /* nodoMatriz.cpp in Sources */,
 				AA3F786926CB3847009DE61A /* listaEstudiantes.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

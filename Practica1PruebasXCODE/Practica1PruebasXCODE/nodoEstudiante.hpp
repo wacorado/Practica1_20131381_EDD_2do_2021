@@ -9,19 +9,18 @@ private:
     string dpi;
     string nombre;
     string carrera;
-    string correo;
     string contrasena;
     string creditos;
     string edad;
+    string correo;
     nodoEstudiante *siguiente;
     nodoEstudiante *anterior;
 
 public:
     // aqui se declaran los constructures
     nodoEstudiante();
-
-    nodoEstudiante(string carnet_, string dpi_, string nombre_, string carrera_, string correo_, string contrasena_, string creditos_, string edad_);
-    nodoEstudiante(string carnet_, string dpi_, string nombre_, string carrera_, string correo_, string contrasena_, string creditos_, string edad_, nodoEstudiante *siguiente_, nodoEstudiante *anterior_);
+    nodoEstudiante(string carnet_, string dpi_, string nombre_, string carrera_, string contrasena_, string creditos_, string edad_, string correo_);
+    nodoEstudiante(string carnet_, string dpi_, string nombre_, string carrera_, string contrasena_, string creditos_, string edad_, string correo_, nodoEstudiante *siguiente_, nodoEstudiante *anterior_);
     
     // aqui estan los metodos GET
     string getCarnet();

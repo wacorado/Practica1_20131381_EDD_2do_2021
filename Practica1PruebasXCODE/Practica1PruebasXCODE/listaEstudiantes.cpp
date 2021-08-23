@@ -9,10 +9,10 @@ bool listaEstudiantes::vacia(){
     return this->primero == NULL;
 }
 
-void listaEstudiantes::insertarValorFinal(string carnet_, string dpi_, string nombre_, string carrera_, string correo_, string contrasena_, string creditos_, string edad_)
+void listaEstudiantes::insertarValorFinal(string carnet_, string dpi_, string nombre_, string carrera_, string contrasena_, string creditos_, string edad_, string correo_)
 {
     nodoEstudiante *nuevo;
-    nuevo = new nodoEstudiante(edad_, dpi_, nombre_,carrera_,correo_,contrasena_,creditos_,edad_);
+    nuevo = new nodoEstudiante(carnet_, dpi_, nombre_, carrera_, contrasena_, creditos_, edad_, correo_);
     if (vacia())
     {
         primero = nuevo;
@@ -41,10 +41,10 @@ void listaEstudiantes::imprimirListaEstudiantes(){
             cout <<"Numero de DPI: "<<actual->getDpi()<<endl;
             cout <<"Nombre Estudiante: " <<actual->getNombre()<<endl;
             cout <<"Carrera: " <<actual->getCarrera()<< endl;
-            cout << "Correo Estudiante: " <<actual->getNombre()<< endl;
             cout << "Contraseña Estudiante: " <<actual->getContrasena()<< endl;
             cout << "No. de Creditos: " <<actual->getCreditos()<< endl;
             cout << "Edad del Estudiante: "<<actual->getEdad()<< endl;
+            cout << "Correo de Estudiante: "<<actual->getCorreo()<< endl;
             actual = actual->getSiguiente();
         }while(actual != primero);
     }else{

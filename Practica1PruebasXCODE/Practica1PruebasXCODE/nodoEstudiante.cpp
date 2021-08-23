@@ -15,30 +15,30 @@ nodoEstudiante::nodoEstudiante()
     this->anterior = NULL;
 }
 
-nodoEstudiante::nodoEstudiante(string carnet_, string dpi_, string nombre_, string carrera_, string correo_, string contrasena_, string creditos_, string edad_)
+nodoEstudiante::nodoEstudiante(string carnet_, string dpi_, string nombre_, string carrera_, string contrasena_, string creditos_, string edad_, string correo_)
 {
     this->carnet = carnet_;
     this->dpi = dpi_;
     this->nombre = nombre_;
     this->carrera = carrera_;
-    this->correo = correo_;
     this->contrasena = contrasena_;
     this->creditos = creditos_;
     this->edad = edad_;
+    this->correo = correo_;
     this->siguiente = 0;
     this->anterior = 0;
 }
 
-nodoEstudiante::nodoEstudiante(string carnet_, string dpi_, string nombre_, string carrera_, string correo_, string contrasena_, string creditos_, string edad_, nodoEstudiante *anterior_, nodoEstudiante *siguiente_)
+nodoEstudiante::nodoEstudiante(string carnet_, string dpi_, string nombre_, string carrera_, string contrasena_, string creditos_, string edad_, string correo_, nodoEstudiante *anterior_, nodoEstudiante *siguiente_)
 {
     this->carnet = carnet_;
     this->dpi = dpi_;
     this->nombre = nombre_;
     this->carrera = carrera_;
-    this->correo = correo_;
     this->contrasena = contrasena_;
     this->creditos = creditos_;
     this->edad = edad_;
+    this->correo = correo_;
     this->siguiente = siguiente_;
     this->anterior = anterior_;
 }
@@ -63,10 +63,6 @@ string nodoEstudiante::getCarrera(){
     return this->carrera;
 }
 
-string nodoEstudiante::getCorreo(){
-    return this->correo;
-}
-
 string nodoEstudiante::getContrasena(){
     return this->contrasena;
 }
@@ -77,6 +73,10 @@ string nodoEstudiante::getCreditos(){
 
 string nodoEstudiante::getEdad(){
     return this->edad;
+}
+
+string nodoEstudiante::getCorreo(){
+    return this->correo;
 }
 
 nodoEstudiante *nodoEstudiante::getSiguiente()
