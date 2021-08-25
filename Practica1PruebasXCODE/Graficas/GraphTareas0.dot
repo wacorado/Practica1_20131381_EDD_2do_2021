@@ -1,0 +1,5895 @@
+digraph List {
+rankdir=LR;
+node [shape = record, color=blue , style=filled, fillcolor=skyblue];
+0[label="Espacio Vacio",shape=record]
+30[label="Espacio Vacio",shape=record]
+60[label="Espacio Vacio",shape=record]
+90[label="Espacio Vacio",shape=record]
+120[label="Espacio Vacio",shape=record]
+150[label="Espacio Vacio",shape=record]
+180[label="Carnet: 201210811
+Nombre: Estudiar para el examen
+Descripcion: Leer las presentaciones de la 1 a la 5
+Materia: Investigacion de operaciones
+Fecha: 2021/07/01
+Hora: 14
+Estado: Incumplido",shape=record]
+210[label="Espacio Vacio",shape=record]
+240[label="Espacio Vacio",shape=record]
+1[label="Espacio Vacio",shape=record]
+31[label="Espacio Vacio",shape=record]
+61[label="Espacio Vacio",shape=record]
+91[label="Espacio Vacio",shape=record]
+121[label="Espacio Vacio",shape=record]
+151[label="Espacio Vacio",shape=record]
+181[label="Espacio Vacio",shape=record]
+211[label="Espacio Vacio",shape=record]
+241[label="Carnet: 201119966
+Nombre: Hoja de trabajo 2 de Sistemas Operativos 1
+Descripcion: Empezar la Hoja de trabajo 2 de Sistemas Operativos 1
+Materia: Sistemas Operativos 1
+Fecha: 2021/07/02
+Hora: 16
+Estado: Pendiente",shape=record]
+2[label="Espacio Vacio",shape=record]
+32[label="Carnet: 201582352
+Nombre: Hoja de trabajo 3 de Fisica 3
+Descripcion: Terminar la Hoja de trabajo 3 de Fisica 3
+Materia: Fisica 3
+Fecha: 2021/07/03
+Hora: 9
+Estado: Incumplido",shape=record]
+62[label="Carnet: 201412244
+Nombre: Practica 3 de Sistemas de Bases de Datos 2
+Descripcion: Terminar la Practica 3 de Sistemas de Bases de Datos 2
+Materia: Sistemas de Bases de Datos 2
+Fecha: 2021/07/03
+Hora: 10
+Estado: Realizado",shape=record]
+92[label="Espacio Vacio",shape=record]
+122[label="Espacio Vacio",shape=record]
+152[label="Espacio Vacio",shape=record]
+182[label="Carnet: 201119966
+Nombre: Examen de Sistemas de Bases de Datos 1
+Descripcion: Realizar el Examen de Sistemas de Bases de Datos 1
+Materia: Sistemas de Bases de Datos 1
+Fecha: 2021/07/03
+Hora: 14
+Estado: Incumplido",shape=record]
+212[label="Espacio Vacio",shape=record]
+242[label="Espacio Vacio",shape=record]
+3[label="Carnet: 201933753
+Nombre: Proyecto 2 de Matematica Intermedia 3
+Descripcion: Realizar el Proyecto 2 de Matematica Intermedia 3
+Materia: Matematica Intermedia 3
+Fecha: 2021/07/04
+Hora: 8
+Estado: Realizado",shape=record]
+33[label="Espacio Vacio",shape=record]
+63[label="Espacio Vacio",shape=record]
+93[label="Espacio Vacio",shape=record]
+123[label="Espacio Vacio",shape=record]
+153[label="Espacio Vacio",shape=record]
+183[label="Espacio Vacio",shape=record]
+213[label="Espacio Vacio",shape=record]
+243[label="Espacio Vacio",shape=record]
+4[label="Espacio Vacio",shape=record]
+34[label="Espacio Vacio",shape=record]
+64[label="Espacio Vacio",shape=record]
+94[label="Espacio Vacio",shape=record]
+124[label="Espacio Vacio",shape=record]
+154[label="Espacio Vacio",shape=record]
+184[label="Espacio Vacio",shape=record]
+214[label="Espacio Vacio",shape=record]
+244[label="Carnet: 201210811
+Nombre: Proyecto 2 de Matematica Basica 2
+Descripcion: Terminar el Proyecto 2 de Matematica Basica 2
+Materia: Matematica Basica 2
+Fecha: 2021/07/05
+Hora: 16
+Estado: Pendiente",shape=record]
+5[label="Espacio Vacio",shape=record]
+35[label="Espacio Vacio",shape=record]
+65[label="Espacio Vacio",shape=record]
+95[label="Espacio Vacio",shape=record]
+125[label="Espacio Vacio",shape=record]
+155[label="Espacio Vacio",shape=record]
+185[label="Espacio Vacio",shape=record]
+215[label="Espacio Vacio",shape=record]
+245[label="Carnet: 201389879
+Nombre: Tarea 2 de Matematica Computo 1
+Descripcion: Terminar la Tarea 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/07/06
+Hora: 16
+Estado: Incumplido",shape=record]
+6[label="Carnet: 201509061
+Nombre: Examen de Lenguajes Formales y de Programacion
+Descripcion: Realizar el Examen de Lenguajes Formales y de Programacion
+Materia: Lenguajes Formales y de Programacion
+Fecha: 2021/07/07
+Hora: 8
+Estado: Realizado",shape=record]
+36[label="Espacio Vacio",shape=record]
+66[label="Espacio Vacio",shape=record]
+96[label="Espacio Vacio",shape=record]
+126[label="Carnet: 201234795
+Nombre: Examen de Lenguajes Formales y de Programacion
+Descripcion: Realizar el Examen de Lenguajes Formales y de Programacion
+Materia: Lenguajes Formales y de Programacion
+Fecha: 2021/07/07
+Hora: 12
+Estado: Incumplido",shape=record]
+156[label="Espacio Vacio",shape=record]
+186[label="Espacio Vacio",shape=record]
+216[label="Carnet: 201461415
+Nombre: Tarea 2 de Quimica General 1
+Descripcion: Hacer la Tarea 2 de Quimica General 1
+Materia: Quimica General 1
+Fecha: 2021/07/07
+Hora: 15
+Estado: Realizado",shape=record]
+246[label="Espacio Vacio",shape=record]
+7[label="Espacio Vacio",shape=record]
+37[label="Espacio Vacio",shape=record]
+67[label="Espacio Vacio",shape=record]
+97[label="Espacio Vacio",shape=record]
+127[label="Espacio Vacio",shape=record]
+157[label="Carnet: 201476680
+Nombre: Practica 2 de Sistemas de Bases de Datos 2
+Descripcion: Entregar la Practica 2 de Sistemas de Bases de Datos 2
+Materia: Sistemas de Bases de Datos 2
+Fecha: 2021/07/08
+Hora: 13
+Estado: Incumplido",shape=record]
+187[label="Espacio Vacio",shape=record]
+217[label="Espacio Vacio",shape=record]
+247[label="Carnet: 201698163
+Nombre: Ensayo de IPC2
+Descripcion: Empezar el Ensayo de IPC2
+Materia: IPC2
+Fecha: 2021/07/08
+Hora: 16
+Estado: Incumplido",shape=record]
+8[label="Espacio Vacio",shape=record]
+38[label="Espacio Vacio",shape=record]
+68[label="Carnet: 201818908
+Nombre: Practica 1 de Fisica 1
+Descripcion: Realizar la Practica 1 de Fisica 1
+Materia: Fisica 1
+Fecha: 2021/07/09
+Hora: 10
+Estado: Incumplido",shape=record]
+98[label="Espacio Vacio",shape=record]
+128[label="Carnet: 201402462
+Nombre: Examen de Lenguajes Formales y de Programacion
+Descripcion: Realizar el Examen de Lenguajes Formales y de Programacion
+Materia: Lenguajes Formales y de Programacion
+Fecha: 2021/07/09
+Hora: 12
+Estado: Incumplido",shape=record]
+158[label="Carnet: 201125580
+Nombre: Hoja de trabajo 3 de IPC2
+Descripcion: Terminar la Hoja de trabajo 3 de IPC2
+Materia: IPC2
+Fecha: 2021/07/09
+Hora: 13
+Estado: Pendiente",shape=record]
+188[label="Espacio Vacio",shape=record]
+218[label="Carnet: 201147451
+Nombre: Hoja de trabajo 3 de Fisica 3
+Descripcion: Terminar la Hoja de trabajo 3 de Fisica 3
+Materia: Fisica 3
+Fecha: 2021/07/09
+Hora: 15
+Estado: Realizado",shape=record]
+248[label="Espacio Vacio",shape=record]
+9[label="Espacio Vacio",shape=record]
+39[label="Espacio Vacio",shape=record]
+69[label="Espacio Vacio",shape=record]
+99[label="Carnet: 201897987
+Nombre: Practica 2 de Fisica 2
+Descripcion: Realizar la Practica 2 de Fisica 2
+Materia: Fisica 2
+Fecha: 2021/07/10
+Hora: 11
+Estado: Pendiente",shape=record]
+129[label="Espacio Vacio",shape=record]
+159[label="Espacio Vacio",shape=record]
+189[label="Carnet: 201668149
+Nombre: Hoja de trabajo 2 de Matematica Computo 1
+Descripcion: Entregar la Hoja de trabajo 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/07/10
+Hora: 14
+Estado: Realizado",shape=record]
+219[label="Carnet: 201790782
+Nombre: Proyecto 1 de IPC1
+Descripcion: Entregar el Proyecto 1 de IPC1
+Materia: IPC1
+Fecha: 2021/07/10
+Hora: 15
+Estado: Incumplido",shape=record]
+249[label="Carnet: 201766242
+Nombre: Tarea 2 de IPC1
+Descripcion: Hacer la Tarea 2 de IPC1
+Materia: IPC1
+Fecha: 2021/07/10
+Hora: 16
+Estado: Incumplido",shape=record]
+10[label="Espacio Vacio",shape=record]
+40[label="Espacio Vacio",shape=record]
+70[label="Espacio Vacio",shape=record]
+100[label="Espacio Vacio",shape=record]
+130[label="Espacio Vacio",shape=record]
+160[label="Carnet: 201500866
+Nombre: Corto de Sistemas de Bases de Datos 1
+Descripcion: Entregar el Corto de Sistemas de Bases de Datos 1
+Materia: Sistemas de Bases de Datos 1
+Fecha: 2021/07/11
+Hora: 13
+Estado: Realizado",shape=record]
+190[label="Espacio Vacio",shape=record]
+220[label="Espacio Vacio",shape=record]
+250[label="Carnet: 201864201
+Nombre: Investigacion de EDD
+Descripcion: empezar a investigar las estructuras en python
+Materia: Estructuras de datos
+Fecha: 2021/07/11
+Hora: 16
+Estado: Pendiente",shape=record]
+11[label="Espacio Vacio",shape=record]
+41[label="Espacio Vacio",shape=record]
+71[label="Espacio Vacio",shape=record]
+101[label="Espacio Vacio",shape=record]
+131[label="Espacio Vacio",shape=record]
+161[label="Espacio Vacio",shape=record]
+191[label="Espacio Vacio",shape=record]
+221[label="Espacio Vacio",shape=record]
+251[label="Espacio Vacio",shape=record]
+12[label="Carnet: 201234795
+Nombre: Ensayo de Manejo e Implementacion de Archios
+Descripcion: Entregar el Ensayo de Manejo e Implementacion de Archios
+Materia: Manejo e Implementacion de Archios
+Fecha: 2021/07/13
+Hora: 8
+Estado: Realizado",shape=record]
+42[label="Carnet: 201009015
+Nombre: Examen de Matematica Computo 1
+Descripcion: Realizar el Examen de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/07/13
+Hora: 9
+Estado: Pendiente",shape=record]
+72[label="Espacio Vacio",shape=record]
+102[label="Espacio Vacio",shape=record]
+132[label="Espacio Vacio",shape=record]
+162[label="Espacio Vacio",shape=record]
+192[label="Espacio Vacio",shape=record]
+222[label="Espacio Vacio",shape=record]
+252[label="Carnet: 201022466
+Nombre: Hoja de trabajo 2 de Matematica Intermedia 2
+Descripcion: Empezar la Hoja de trabajo 2 de Matematica Intermedia 2
+Materia: Matematica Intermedia 2
+Fecha: 2021/07/13
+Hora: 16
+Estado: Incumplido",shape=record]
+13[label="Espacio Vacio",shape=record]
+43[label="Espacio Vacio",shape=record]
+73[label="Espacio Vacio",shape=record]
+103[label="Espacio Vacio",shape=record]
+133[label="Espacio Vacio",shape=record]
+163[label="Espacio Vacio",shape=record]
+193[label="Espacio Vacio",shape=record]
+223[label="Espacio Vacio",shape=record]
+253[label="Espacio Vacio",shape=record]
+14[label="Espacio Vacio",shape=record]
+44[label="Espacio Vacio",shape=record]
+74[label="Espacio Vacio",shape=record]
+104[label="Espacio Vacio",shape=record]
+134[label="Espacio Vacio",shape=record]
+164[label="Espacio Vacio",shape=record]
+194[label="Espacio Vacio",shape=record]
+224[label="Carnet: 201428558
+Nombre: Corto de Sistemas de Bases de Datos 1
+Descripcion: Entregar el Corto de Sistemas de Bases de Datos 1
+Materia: Sistemas de Bases de Datos 1
+Fecha: 2021/07/15
+Hora: 15
+Estado: Pendiente",shape=record]
+254[label="Espacio Vacio",shape=record]
+15[label="Espacio Vacio",shape=record]
+45[label="Espacio Vacio",shape=record]
+75[label="Carnet: 201173540
+Nombre: Hoja de trabajo 2 de Practica Intermedia
+Descripcion: Terminar la Hoja de trabajo 2 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/07/16
+Hora: 10
+Estado: Realizado",shape=record]
+105[label="Espacio Vacio",shape=record]
+135[label="Espacio Vacio",shape=record]
+165[label="Espacio Vacio",shape=record]
+195[label="Espacio Vacio",shape=record]
+225[label="Espacio Vacio",shape=record]
+255[label="Carnet: 201774497
+Nombre: Practica 3 de Sistemas de Bases de Datos 2
+Descripcion: Terminar la Practica 3 de Sistemas de Bases de Datos 2
+Materia: Sistemas de Bases de Datos 2
+Fecha: 2021/07/16
+Hora: 16
+Estado: Pendiente",shape=record]
+16[label="Espacio Vacio",shape=record]
+46[label="Espacio Vacio",shape=record]
+76[label="Espacio Vacio",shape=record]
+106[label="Carnet: 201210811
+Nombre: Proyecto 2 de Matematica Intermedia 3
+Descripcion: Realizar el Proyecto 2 de Matematica Intermedia 3
+Materia: Matematica Intermedia 3
+Fecha: 2021/07/17
+Hora: 11
+Estado: Realizado",shape=record]
+136[label="Espacio Vacio",shape=record]
+166[label="Espacio Vacio",shape=record]
+196[label="Espacio Vacio",shape=record]
+226[label="Espacio Vacio",shape=record]
+256[label="Carnet: 201022466
+Nombre: Tarea 2 de Quimica General 1
+Descripcion: Hacer la Tarea 2 de Quimica General 1
+Materia: Quimica General 1
+Fecha: 2021/07/17
+Hora: 16
+Estado: Incumplido",shape=record]
+17[label="Espacio Vacio",shape=record]
+47[label="Espacio Vacio",shape=record]
+77[label="Carnet: 201933753
+Nombre: Tarea 2 de Matematica Computo 1
+Descripcion: Terminar la Tarea 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/07/18
+Hora: 10
+Estado: Realizado",shape=record]
+107[label="Espacio Vacio",shape=record]
+137[label="Carnet: 201991578
+Nombre: Practica 1 de Fisica 1
+Descripcion: Realizar la Practica 1 de Fisica 1
+Materia: Fisica 1
+Fecha: 2021/07/18
+Hora: 12
+Estado: Incumplido",shape=record]
+167[label="Espacio Vacio",shape=record]
+197[label="Espacio Vacio",shape=record]
+227[label="Carnet: 201511649
+Nombre: Tarea 2 de IPC1
+Descripcion: Hacer la Tarea 2 de IPC1
+Materia: IPC1
+Fecha: 2021/07/18
+Hora: 15
+Estado: Incumplido",shape=record]
+257[label="Espacio Vacio",shape=record]
+18[label="Carnet: 201375524
+Nombre: Hoja de trabajo 3 de Fisica 3
+Descripcion: Terminar la Hoja de trabajo 3 de Fisica 3
+Materia: Fisica 3
+Fecha: 2021/07/19
+Hora: 8
+Estado: Realizado",shape=record]
+48[label="Carnet: 201131811
+Nombre: Hoja de trabajo 3 de Fisica 3
+Descripcion: Terminar la Hoja de trabajo 3 de Fisica 3
+Materia: Fisica 3
+Fecha: 2021/07/19
+Hora: 9
+Estado: Incumplido",shape=record]
+78[label="Espacio Vacio",shape=record]
+108[label="Carnet: 201210811
+Nombre: Proyecto 1 de IPC1
+Descripcion: Entregar el Proyecto 1 de IPC1
+Materia: IPC1
+Fecha: 2021/07/19
+Hora: 11
+Estado: Pendiente",shape=record]
+138[label="Carnet: 201818908
+Nombre: Proyecto 2 de Matematica Intermedia 3
+Descripcion: Realizar el Proyecto 2 de Matematica Intermedia 3
+Materia: Matematica Intermedia 3
+Fecha: 2021/07/19
+Hora: 12
+Estado: Realizado",shape=record]
+168[label="Espacio Vacio",shape=record]
+198[label="Espacio Vacio",shape=record]
+228[label="Espacio Vacio",shape=record]
+258[label="Espacio Vacio",shape=record]
+19[label="Carnet: 201667272
+Nombre: Investigacion de EDD
+Descripcion: empezar a investigar las estructuras en python
+Materia: Estructuras de datos
+Fecha: 2021/07/20
+Hora: 8
+Estado: Realizado",shape=record]
+49[label="Espacio Vacio",shape=record]
+79[label="Espacio Vacio",shape=record]
+109[label="Espacio Vacio",shape=record]
+139[label="Carnet: 201921767
+Nombre: Practica 3 de Quimica General 1
+Descripcion: Terminar la Practica 3 de Quimica General 1
+Materia: Quimica General 1
+Fecha: 2021/07/20
+Hora: 12
+Estado: Pendiente",shape=record]
+169[label="Espacio Vacio",shape=record]
+199[label="Espacio Vacio",shape=record]
+229[label="Espacio Vacio",shape=record]
+259[label="Espacio Vacio",shape=record]
+20[label="Carnet: 201643353
+Nombre: Tarea 3 de Sistemas Operativos 1
+Descripcion: Empezar la Tarea 3 de Sistemas Operativos 1
+Materia: Sistemas Operativos 1
+Fecha: 2021/07/21
+Hora: 8
+Estado: Realizado",shape=record]
+50[label="Carnet: 201327079
+Nombre: Tarea 1 idioma
+Descripcion: Tarea 1 de indioma 4
+Materia: Idioma Tecnico 1
+Fecha: 2021/07/21
+Hora: 9
+Estado: Incumplido",shape=record]
+80[label="Carnet: 201803912
+Nombre: Practica 1 de Fisica 1
+Descripcion: Realizar la Practica 1 de Fisica 1
+Materia: Fisica 1
+Fecha: 2021/07/21
+Hora: 10
+Estado: Incumplido",shape=record]
+110[label="Espacio Vacio",shape=record]
+140[label="Espacio Vacio",shape=record]
+170[label="Espacio Vacio",shape=record]
+200[label="Espacio Vacio",shape=record]
+230[label="Carnet: 201145786
+Nombre: Tarea 3 de Organizacion de Lenguajes y Compiladores 2
+Descripcion: Empezar la Tarea 3 de Organizacion de Lenguajes y Compiladores 2
+Materia: Organizacion de Lenguajes y Compiladores 2
+Fecha: 2021/07/21
+Hora: 15
+Estado: Pendiente",shape=record]
+260[label="Espacio Vacio",shape=record]
+21[label="Carnet: 201327675
+Nombre: Proyecto 1 de Practica Intermedia
+Descripcion: Hacer el Proyecto 1 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/07/22
+Hora: 8
+Estado: Incumplido",shape=record]
+51[label="Espacio Vacio",shape=record]
+81[label="Espacio Vacio",shape=record]
+111[label="Espacio Vacio",shape=record]
+141[label="Espacio Vacio",shape=record]
+171[label="Espacio Vacio",shape=record]
+201[label="Carnet: 201022466
+Nombre: Examen de Sistemas de Bases de Datos 1
+Descripcion: Realizar el Examen de Sistemas de Bases de Datos 1
+Materia: Sistemas de Bases de Datos 1
+Fecha: 2021/07/22
+Hora: 14
+Estado: Pendiente",shape=record]
+231[label="Espacio Vacio",shape=record]
+261[label="Espacio Vacio",shape=record]
+22[label="Espacio Vacio",shape=record]
+52[label="Espacio Vacio",shape=record]
+82[label="Espacio Vacio",shape=record]
+112[label="Espacio Vacio",shape=record]
+142[label="Carnet: 201232485
+Nombre: Ensayo de Practica Inicial
+Descripcion: Hacer el Ensayo de Practica Inicial
+Materia: Practica Inicial
+Fecha: 2021/07/23
+Hora: 12
+Estado: Incumplido",shape=record]
+172[label="Espacio Vacio",shape=record]
+202[label="Espacio Vacio",shape=record]
+232[label="Espacio Vacio",shape=record]
+262[label="Espacio Vacio",shape=record]
+23[label="Espacio Vacio",shape=record]
+53[label="Espacio Vacio",shape=record]
+83[label="Espacio Vacio",shape=record]
+113[label="Carnet: 201232485
+Nombre: Practica 1 de Fisica 1
+Descripcion: Realizar la Practica 1 de Fisica 1
+Materia: Fisica 1
+Fecha: 2021/07/24
+Hora: 11
+Estado: Realizado",shape=record]
+143[label="Espacio Vacio",shape=record]
+173[label="Espacio Vacio",shape=record]
+203[label="Espacio Vacio",shape=record]
+233[label="Carnet: 201764124
+Nombre: Tarea 2 de Quimica General 1
+Descripcion: Empezar la Tarea 2 de Quimica General 1
+Materia: Quimica General 1
+Fecha: 2021/07/24
+Hora: 15
+Estado: Incumplido",shape=record]
+263[label="Carnet: 201668149
+Nombre: Tarea 2 de Matematica Computo 1
+Descripcion: Terminar la Tarea 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/07/24
+Hora: 16
+Estado: Pendiente",shape=record]
+24[label="Espacio Vacio",shape=record]
+54[label="Espacio Vacio",shape=record]
+84[label="Espacio Vacio",shape=record]
+114[label="Carnet: 201740604
+Nombre: Proyecto 1 de Fisica 2
+Descripcion: Empezar el Proyecto 1 de Fisica 2
+Materia: Fisica 2
+Fecha: 2021/07/25
+Hora: 11
+Estado: Realizado",shape=record]
+144[label="Espacio Vacio",shape=record]
+174[label="Espacio Vacio",shape=record]
+204[label="Espacio Vacio",shape=record]
+234[label="Carnet: 201234795
+Nombre: Tarea 1 de Social Humanistica 1
+Descripcion: Empezar la Tarea 1 de Social Humanistica 1
+Materia: Social Humanistica 1
+Fecha: 2021/07/25
+Hora: 15
+Estado: Pendiente",shape=record]
+264[label="Espacio Vacio",shape=record]
+25[label="Carnet: 201119966
+Nombre: Hoja de trabajo 2 de Matematica Intermedia 2
+Descripcion: Empezar la Hoja de trabajo 2 de Matematica Intermedia 2
+Materia: Matematica Intermedia 2
+Fecha: 2021/07/26
+Hora: 8
+Estado: Pendiente",shape=record]
+55[label="Espacio Vacio",shape=record]
+85[label="Espacio Vacio",shape=record]
+115[label="Espacio Vacio",shape=record]
+145[label="Espacio Vacio",shape=record]
+175[label="Espacio Vacio",shape=record]
+205[label="Espacio Vacio",shape=record]
+235[label="Carnet: 201173540
+Nombre: Hoja de trabajo 3 de IPC2
+Descripcion: Terminar la Hoja de trabajo 3 de IPC2
+Materia: IPC2
+Fecha: 2021/07/26
+Hora: 15
+Estado: Incumplido",shape=record]
+265[label="Espacio Vacio",shape=record]
+26[label="Carnet: 201210811
+Nombre: Proyecto 1 de Fisica 2
+Descripcion: Empezar el Proyecto 1 de Fisica 2
+Materia: Fisica 2
+Fecha: 2021/07/27
+Hora: 8
+Estado: Pendiente",shape=record]
+56[label="Espacio Vacio",shape=record]
+86[label="Espacio Vacio",shape=record]
+116[label="Espacio Vacio",shape=record]
+146[label="Espacio Vacio",shape=record]
+176[label="Espacio Vacio",shape=record]
+206[label="Espacio Vacio",shape=record]
+236[label="Espacio Vacio",shape=record]
+266[label="Carnet: 201774497
+Nombre: Examen de Lenguajes Formales y de Programacion
+Descripcion: Realizar el Examen de Lenguajes Formales y de Programacion
+Materia: Lenguajes Formales y de Programacion
+Fecha: 2021/07/27
+Hora: 16
+Estado: Pendiente",shape=record]
+27[label="Espacio Vacio",shape=record]
+57[label="Carnet: 201375524
+Nombre: Practica 2 de IPC1
+Descripcion: Realizar la Practica 2 de IPC1
+Materia: IPC1
+Fecha: 2021/07/28
+Hora: 9
+Estado: Incumplido",shape=record]
+87[label="Espacio Vacio",shape=record]
+117[label="Espacio Vacio",shape=record]
+147[label="Espacio Vacio",shape=record]
+177[label="Espacio Vacio",shape=record]
+207[label="Espacio Vacio",shape=record]
+237[label="Espacio Vacio",shape=record]
+267[label="Espacio Vacio",shape=record]
+28[label="Carnet: 201043689
+Nombre: Proyecto 1 de Practica Intermedia
+Descripcion: Realizar el Proyecto 1 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/07/29
+Hora: 8
+Estado: Pendiente",shape=record]
+58[label="Espacio Vacio",shape=record]
+88[label="Espacio Vacio",shape=record]
+118[label="Espacio Vacio",shape=record]
+148[label="Espacio Vacio",shape=record]
+178[label="Espacio Vacio",shape=record]
+208[label="Espacio Vacio",shape=record]
+238[label="Espacio Vacio",shape=record]
+268[label="Espacio Vacio",shape=record]
+29[label="Espacio Vacio",shape=record]
+59[label="Espacio Vacio",shape=record]
+89[label="Espacio Vacio",shape=record]
+119[label="Espacio Vacio",shape=record]
+149[label="Espacio Vacio",shape=record]
+179[label="Espacio Vacio",shape=record]
+209[label="Carnet: 201110247
+Nombre: Tarea 2 de Matematica Computo 1
+Descripcion: Terminar la Tarea 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/07/30
+Hora: 14
+Estado: Incumplido",shape=record]
+239[label="Espacio Vacio",shape=record]
+269[label="Carnet: 201509061
+Nombre: Examen de Lenguajes Formales y de Programacion
+Descripcion: Realizar el Examen de Lenguajes Formales y de Programacion
+Materia: Lenguajes Formales y de Programacion
+Fecha: 2021/07/30
+Hora: 16
+Estado: Incumplido",shape=record]
+270[label="Espacio Vacio",shape=record]
+300[label="Espacio Vacio",shape=record]
+330[label="Espacio Vacio",shape=record]
+360[label="Espacio Vacio",shape=record]
+390[label="Espacio Vacio",shape=record]
+420[label="Espacio Vacio",shape=record]
+450[label="Espacio Vacio",shape=record]
+480[label="Espacio Vacio",shape=record]
+510[label="Espacio Vacio",shape=record]
+271[label="Espacio Vacio",shape=record]
+301[label="Carnet: 201232485
+Nombre: Examen de Lenguajes Formales y de Programacion
+Descripcion: Realizar el Examen de Lenguajes Formales y de Programacion
+Materia: Lenguajes Formales y de Programacion
+Fecha: 2021/08/02
+Hora: 9
+Estado: Incumplido",shape=record]
+331[label="Espacio Vacio",shape=record]
+361[label="Espacio Vacio",shape=record]
+391[label="Espacio Vacio",shape=record]
+421[label="Espacio Vacio",shape=record]
+451[label="Carnet: 201635991
+Nombre: Tarea 2 de Matematica Computo 1
+Descripcion: Terminar la Tarea 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/08/02
+Hora: 14
+Estado: Pendiente",shape=record]
+481[label="Carnet: 201006295
+Nombre: Ensayo de Organizacion de Lenguajes y Compiladores 1
+Descripcion: Terminar el Ensayo de Organizacion de Lenguajes y Compiladores 1
+Materia: Organizacion de Lenguajes y Compiladores 1
+Fecha: 2021/08/02
+Hora: 15
+Estado: Incumplido",shape=record]
+511[label="Carnet: 201476680
+Nombre: Examen de Matematica Computo 1
+Descripcion: Realizar el Examen de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/08/02
+Hora: 16
+Estado: Pendiente",shape=record]
+272[label="Carnet: 201774497
+Nombre: Tarea de mate
+Descripcion: Realizar la tarea para el primer parcial
+Materia: Matematica Intermedia 1
+Fecha: 2021/08/03
+Hora: 8
+Estado: Realizado",shape=record]
+302[label="Espacio Vacio",shape=record]
+332[label="Espacio Vacio",shape=record]
+362[label="Espacio Vacio",shape=record]
+392[label="Espacio Vacio",shape=record]
+422[label="Espacio Vacio",shape=record]
+452[label="Espacio Vacio",shape=record]
+482[label="Carnet: 201145786
+Nombre: Examen de Matematica Computo 1
+Descripcion: Realizar el Examen de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/08/03
+Hora: 15
+Estado: Incumplido",shape=record]
+512[label="Espacio Vacio",shape=record]
+273[label="Espacio Vacio",shape=record]
+303[label="Espacio Vacio",shape=record]
+333[label="Espacio Vacio",shape=record]
+363[label="Espacio Vacio",shape=record]
+393[label="Carnet: 201173540
+Nombre: Tarea 2 de Quimica General 1
+Descripcion: Empezar la Tarea 2 de Quimica General 1
+Materia: Quimica General 1
+Fecha: 2021/08/04
+Hora: 12
+Estado: Incumplido",shape=record]
+423[label="Carnet: 201110247
+Nombre: Tarea 2 de Matematica Basica 2
+Descripcion: Entregar la Tarea 2 de Matematica Basica 2
+Materia: Matematica Basica 2
+Fecha: 2021/08/04
+Hora: 13
+Estado: Incumplido",shape=record]
+453[label="Carnet: 201537627
+Nombre: Hoja de trabajo 3 de Fisica 3
+Descripcion: Terminar la Hoja de trabajo 3 de Fisica 3
+Materia: Fisica 3
+Fecha: 2021/08/04
+Hora: 14
+Estado: Incumplido",shape=record]
+483[label="Carnet: 201210811
+Nombre: Tarea 2 Fisica 2
+Descripcion: Realizar la tarea para el primer parcial
+Materia: Fisica 2
+Fecha: 2021/08/04
+Hora: 15
+Estado: Incumplido",shape=record]
+513[label="Carnet: 201412244
+Nombre: Hoja de trabajo 3 de Fisica 3
+Descripcion: Terminar la Hoja de trabajo 3 de Fisica 3
+Materia: Fisica 3
+Fecha: 2021/08/04
+Hora: 16
+Estado: Pendiente",shape=record]
+274[label="Carnet: 201476680
+Nombre: Practica edd
+Descripcion: Terminar la practica
+Materia: Estructuras de datos
+Fecha: 2021/08/05
+Hora: 8
+Estado: Incumplido",shape=record]
+304[label="Espacio Vacio",shape=record]
+334[label="Carnet: 201157605
+Nombre: Hoja de trabajo 2 de Matematica Computo 1
+Descripcion: Entregar la Hoja de trabajo 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/08/05
+Hora: 10
+Estado: Pendiente",shape=record]
+364[label="Espacio Vacio",shape=record]
+394[label="Espacio Vacio",shape=record]
+424[label="Espacio Vacio",shape=record]
+454[label="Espacio Vacio",shape=record]
+484[label="Espacio Vacio",shape=record]
+514[label="Espacio Vacio",shape=record]
+275[label="Espacio Vacio",shape=record]
+305[label="Espacio Vacio",shape=record]
+335[label="Espacio Vacio",shape=record]
+365[label="Espacio Vacio",shape=record]
+395[label="Espacio Vacio",shape=record]
+425[label="Espacio Vacio",shape=record]
+455[label="Carnet: 201803912
+Nombre: Proyecto 2 de Matematica Intermedia 3
+Descripcion: Realizar el Proyecto 2 de Matematica Intermedia 3
+Materia: Matematica Intermedia 3
+Fecha: 2021/08/06
+Hora: 14
+Estado: Realizado",shape=record]
+485[label="Espacio Vacio",shape=record]
+515[label="Espacio Vacio",shape=record]
+276[label="Espacio Vacio",shape=record]
+306[label="Espacio Vacio",shape=record]
+336[label="Espacio Vacio",shape=record]
+366[label="Espacio Vacio",shape=record]
+396[label="Espacio Vacio",shape=record]
+426[label="Espacio Vacio",shape=record]
+456[label="Espacio Vacio",shape=record]
+486[label="Espacio Vacio",shape=record]
+516[label="Espacio Vacio",shape=record]
+277[label="Espacio Vacio",shape=record]
+307[label="Espacio Vacio",shape=record]
+337[label="Espacio Vacio",shape=record]
+367[label="Carnet: 201043689
+Nombre: Ensayo de Organizacion de Lenguajes y Compiladores 1
+Descripcion: Terminar el Ensayo de Organizacion de Lenguajes y Compiladores 1
+Materia: Organizacion de Lenguajes y Compiladores 1
+Fecha: 2021/08/08
+Hora: 11
+Estado: Pendiente",shape=record]
+397[label="Espacio Vacio",shape=record]
+427[label="Espacio Vacio",shape=record]
+457[label="Espacio Vacio",shape=record]
+487[label="Espacio Vacio",shape=record]
+517[label="Espacio Vacio",shape=record]
+278[label="Espacio Vacio",shape=record]
+308[label="Espacio Vacio",shape=record]
+338[label="Carnet: 201594265
+Nombre: Tarea 1 idioma
+Descripcion: Tarea 1 de indioma 4
+Materia: Idioma Tecnico 1
+Fecha: 2021/08/09
+Hora: 10
+Estado: Realizado",shape=record]
+368[label="Espacio Vacio",shape=record]
+398[label="Espacio Vacio",shape=record]
+428[label="Espacio Vacio",shape=record]
+458[label="Espacio Vacio",shape=record]
+488[label="Espacio Vacio",shape=record]
+518[label="Espacio Vacio",shape=record]
+279[label="Espacio Vacio",shape=record]
+309[label="Espacio Vacio",shape=record]
+339[label="Carnet: 201669286
+Nombre: Ensayo de Organizacion de Lenguajes y Compiladores 1
+Descripcion: Terminar el Ensayo de Organizacion de Lenguajes y Compiladores 1
+Materia: Organizacion de Lenguajes y Compiladores 1
+Fecha: 2021/08/10
+Hora: 10
+Estado: Pendiente",shape=record]
+369[label="Espacio Vacio",shape=record]
+399[label="Espacio Vacio",shape=record]
+429[label="Espacio Vacio",shape=record]
+459[label="Espacio Vacio",shape=record]
+489[label="Espacio Vacio",shape=record]
+519[label="Espacio Vacio",shape=record]
+280[label="Carnet: 201761573
+Nombre: Hoja de trabajo 2 de Matematica Intermedia 2
+Descripcion: Empezar la Hoja de trabajo 2 de Matematica Intermedia 2
+Materia: Matematica Intermedia 2
+Fecha: 2021/08/11
+Hora: 8
+Estado: Realizado",shape=record]
+310[label="Carnet: 201825364
+Nombre: Tarea 2 de IPC1
+Descripcion: Hacer la Tarea 2 de IPC1
+Materia: IPC1
+Fecha: 2021/08/11
+Hora: 9
+Estado: Incumplido",shape=record]
+340[label="Espacio Vacio",shape=record]
+370[label="Espacio Vacio",shape=record]
+400[label="Carnet: 201764124
+Nombre: Practica 2 de IPC1
+Descripcion: Realizar la Practica 2 de IPC1
+Materia: IPC1
+Fecha: 2021/08/11
+Hora: 12
+Estado: Incumplido",shape=record]
+430[label="Espacio Vacio",shape=record]
+460[label="Carnet: 201954202
+Nombre: Proyecto 1 de Practica Intermedia
+Descripcion: Hacer el Proyecto 1 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/08/11
+Hora: 14
+Estado: Realizado",shape=record]
+490[label="Espacio Vacio",shape=record]
+520[label="Espacio Vacio",shape=record]
+281[label="Espacio Vacio",shape=record]
+311[label="Espacio Vacio",shape=record]
+341[label="Espacio Vacio",shape=record]
+371[label="Carnet: 201646518
+Nombre: Proyecto 1 de Practica Intermedia
+Descripcion: Realizar el Proyecto 1 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/08/12
+Hora: 11
+Estado: Incumplido",shape=record]
+401[label="Espacio Vacio",shape=record]
+431[label="Espacio Vacio",shape=record]
+461[label="Espacio Vacio",shape=record]
+491[label="Espacio Vacio",shape=record]
+521[label="Carnet: 201764124
+Nombre: Hoja de trabajo 2 de Matematica Computo 1
+Descripcion: Entregar la Hoja de trabajo 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/08/12
+Hora: 16
+Estado: Pendiente",shape=record]
+282[label="Carnet: 201359507
+Nombre: Hoja de trabajo 2 de Matematica Intermedia 2
+Descripcion: Empezar la Hoja de trabajo 2 de Matematica Intermedia 2
+Materia: Matematica Intermedia 2
+Fecha: 2021/08/13
+Hora: 8
+Estado: Incumplido",shape=record]
+312[label="Espacio Vacio",shape=record]
+342[label="Carnet: 201131811
+Nombre: Practica 1 de Organizacion de Lenguajes y Compiladores 2
+Descripcion: Empezar la Practica 1 de Organizacion de Lenguajes y Compiladores 2
+Materia: Organizacion de Lenguajes y Compiladores 2
+Fecha: 2021/08/13
+Hora: 10
+Estado: Pendiente",shape=record]
+372[label="Espacio Vacio",shape=record]
+402[label="Espacio Vacio",shape=record]
+432[label="Espacio Vacio",shape=record]
+462[label="Espacio Vacio",shape=record]
+492[label="Espacio Vacio",shape=record]
+522[label="Espacio Vacio",shape=record]
+283[label="Espacio Vacio",shape=record]
+313[label="Carnet: 201669286
+Nombre: Proyecto 1 de Practica Intermedia
+Descripcion: Realizar el Proyecto 1 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/08/14
+Hora: 9
+Estado: Pendiente",shape=record]
+343[label="Espacio Vacio",shape=record]
+373[label="Espacio Vacio",shape=record]
+403[label="Espacio Vacio",shape=record]
+433[label="Espacio Vacio",shape=record]
+463[label="Espacio Vacio",shape=record]
+493[label="Espacio Vacio",shape=record]
+523[label="Espacio Vacio",shape=record]
+284[label="Espacio Vacio",shape=record]
+314[label="Carnet: 201412244
+Nombre: Proyecto 2 de Matematica Intermedia 3
+Descripcion: Realizar el Proyecto 2 de Matematica Intermedia 3
+Materia: Matematica Intermedia 3
+Fecha: 2021/08/15
+Hora: 9
+Estado: Realizado",shape=record]
+344[label="Espacio Vacio",shape=record]
+374[label="Espacio Vacio",shape=record]
+404[label="Espacio Vacio",shape=record]
+434[label="Carnet: 201389879
+Nombre: Tarea 4 de Matematica Computo 1
+Descripcion: Realizar la Tarea 4 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/08/15
+Hora: 13
+Estado: Incumplido",shape=record]
+464[label="Espacio Vacio",shape=record]
+494[label="Espacio Vacio",shape=record]
+524[label="Espacio Vacio",shape=record]
+285[label="Espacio Vacio",shape=record]
+315[label="Carnet: 201773473
+Nombre: Investigacion de EDD
+Descripcion: empezar a investigar las estructuras en python
+Materia: Estructuras de datos
+Fecha: 2021/08/16
+Hora: 9
+Estado: Realizado",shape=record]
+345[label="Espacio Vacio",shape=record]
+375[label="Espacio Vacio",shape=record]
+405[label="Espacio Vacio",shape=record]
+435[label="Espacio Vacio",shape=record]
+465[label="Espacio Vacio",shape=record]
+495[label="Espacio Vacio",shape=record]
+525[label="Espacio Vacio",shape=record]
+286[label="Espacio Vacio",shape=record]
+316[label="Espacio Vacio",shape=record]
+346[label="Carnet: 201375524
+Nombre: Investigacion de Practica Intermedia
+Descripcion: Hacer la Investigacion de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/08/17
+Hora: 10
+Estado: Realizado",shape=record]
+376[label="Espacio Vacio",shape=record]
+406[label="Espacio Vacio",shape=record]
+436[label="Espacio Vacio",shape=record]
+466[label="Espacio Vacio",shape=record]
+496[label="Carnet: 201489697
+Nombre: Hoja de trabajo 2 de Practica Intermedia
+Descripcion: Terminar la Hoja de trabajo 2 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/08/17
+Hora: 15
+Estado: Pendiente",shape=record]
+526[label="Espacio Vacio",shape=record]
+287[label="Espacio Vacio",shape=record]
+317[label="Espacio Vacio",shape=record]
+347[label="Espacio Vacio",shape=record]
+377[label="Espacio Vacio",shape=record]
+407[label="Espacio Vacio",shape=record]
+437[label="Carnet: 201803912
+Nombre: Practica 3 de Sistemas de Bases de Datos 2
+Descripcion: Terminar la Practica 3 de Sistemas de Bases de Datos 2
+Materia: Sistemas de Bases de Datos 2
+Fecha: 2021/08/18
+Hora: 13
+Estado: Pendiente",shape=record]
+467[label="Espacio Vacio",shape=record]
+497[label="Espacio Vacio",shape=record]
+527[label="Espacio Vacio",shape=record]
+288[label="Espacio Vacio",shape=record]
+318[label="Espacio Vacio",shape=record]
+348[label="Espacio Vacio",shape=record]
+378[label="Carnet: 201635991
+Nombre: Tarea 2 de Quimica General 1
+Descripcion: Empezar la Tarea 2 de Quimica General 1
+Materia: Quimica General 1
+Fecha: 2021/08/19
+Hora: 11
+Estado: Incumplido",shape=record]
+408[label="Espacio Vacio",shape=record]
+438[label="Carnet: 201131811
+Nombre: Practica 2 de IPC1
+Descripcion: Realizar la Practica 2 de IPC1
+Materia: IPC1
+Fecha: 2021/08/19
+Hora: 13
+Estado: Incumplido",shape=record]
+468[label="Espacio Vacio",shape=record]
+498[label="Espacio Vacio",shape=record]
+528[label="Espacio Vacio",shape=record]
+289[label="Espacio Vacio",shape=record]
+319[label="Espacio Vacio",shape=record]
+349[label="Espacio Vacio",shape=record]
+379[label="Espacio Vacio",shape=record]
+409[label="Espacio Vacio",shape=record]
+439[label="Espacio Vacio",shape=record]
+469[label="Espacio Vacio",shape=record]
+499[label="Espacio Vacio",shape=record]
+529[label="Espacio Vacio",shape=record]
+290[label="Espacio Vacio",shape=record]
+320[label="Carnet: 201761573
+Nombre: Ensayo de Sistemas Operativos 1
+Descripcion: Terminar el Ensayo de Sistemas Operativos 1
+Materia: Sistemas Operativos 1
+Fecha: 2021/08/21
+Hora: 9
+Estado: Pendiente",shape=record]
+350[label="Carnet: 201389879
+Nombre: Tarea 3 de Organizacion de Lenguajes y Compiladores 2
+Descripcion: Empezar la Tarea 3 de Organizacion de Lenguajes y Compiladores 2
+Materia: Organizacion de Lenguajes y Compiladores 2
+Fecha: 2021/08/21
+Hora: 10
+Estado: Incumplido",shape=record]
+380[label="Carnet: 201210811
+Nombre: Tarea 3 de Sistemas Operativos 1
+Descripcion: Empezar la Tarea 3 de Sistemas Operativos 1
+Materia: Sistemas Operativos 1
+Fecha: 2021/08/21
+Hora: 11
+Estado: Realizado",shape=record]
+410[label="Espacio Vacio",shape=record]
+440[label="Espacio Vacio",shape=record]
+470[label="Espacio Vacio",shape=record]
+500[label="Espacio Vacio",shape=record]
+530[label="Espacio Vacio",shape=record]
+291[label="Carnet: 201315898
+Nombre: Practica 3 de Sistemas de Bases de Datos 2
+Descripcion: Terminar la Practica 3 de Sistemas de Bases de Datos 2
+Materia: Sistemas de Bases de Datos 2
+Fecha: 2021/08/22
+Hora: 8
+Estado: Pendiente",shape=record]
+321[label="Espacio Vacio",shape=record]
+351[label="Espacio Vacio",shape=record]
+381[label="Espacio Vacio",shape=record]
+411[label="Carnet: 201947729
+Nombre: Practica 1 de Organizacion de Lenguajes y Compiladores 2
+Descripcion: Empezar la Practica 1 de Organizacion de Lenguajes y Compiladores 2
+Materia: Organizacion de Lenguajes y Compiladores 2
+Fecha: 2021/08/22
+Hora: 12
+Estado: Incumplido",shape=record]
+441[label="Espacio Vacio",shape=record]
+471[label="Espacio Vacio",shape=record]
+501[label="Carnet: 201137248
+Nombre: Proyecto 2 de Lenguajes Formales y de Programacion
+Descripcion: Hacer el Proyecto 2 de Lenguajes Formales y de Programacion
+Materia: Lenguajes Formales y de Programacion
+Fecha: 2021/08/22
+Hora: 15
+Estado: Incumplido",shape=record]
+531[label="Espacio Vacio",shape=record]
+292[label="Espacio Vacio",shape=record]
+322[label="Carnet: 201374369
+Nombre: Ensayo de Organizacion de Lenguajes y Compiladores 1
+Descripcion: Terminar el Ensayo de Organizacion de Lenguajes y Compiladores 1
+Materia: Organizacion de Lenguajes y Compiladores 1
+Fecha: 2021/08/23
+Hora: 9
+Estado: Realizado",shape=record]
+352[label="Espacio Vacio",shape=record]
+382[label="Carnet: 201210811
+Nombre: Hoja de trabajo 3 de IPC2
+Descripcion: Terminar la Hoja de trabajo 3 de IPC2
+Materia: IPC2
+Fecha: 2021/08/23
+Hora: 11
+Estado: Incumplido",shape=record]
+412[label="Espacio Vacio",shape=record]
+442[label="Espacio Vacio",shape=record]
+472[label="Espacio Vacio",shape=record]
+502[label="Espacio Vacio",shape=record]
+532[label="Carnet: 201476680
+Nombre: Ensayo de Practica Inicial
+Descripcion: Hacer el Ensayo de Practica Inicial
+Materia: Practica Inicial
+Fecha: 2021/08/23
+Hora: 16
+Estado: Incumplido",shape=record]
+293[label="Espacio Vacio",shape=record]
+323[label="Espacio Vacio",shape=record]
+353[label="Espacio Vacio",shape=record]
+383[label="Espacio Vacio",shape=record]
+413[label="Espacio Vacio",shape=record]
+443[label="Espacio Vacio",shape=record]
+473[label="Espacio Vacio",shape=record]
+503[label="Espacio Vacio",shape=record]
+533[label="Carnet: 201761573
+Nombre: Hoja de trabajo 3 de IPC2
+Descripcion: Terminar la Hoja de trabajo 3 de IPC2
+Materia: IPC2
+Fecha: 2021/08/24
+Hora: 16
+Estado: Incumplido",shape=record]
+294[label="Espacio Vacio",shape=record]
+324[label="Espacio Vacio",shape=record]
+354[label="Espacio Vacio",shape=record]
+384[label="Espacio Vacio",shape=record]
+414[label="Espacio Vacio",shape=record]
+444[label="Espacio Vacio",shape=record]
+474[label="Espacio Vacio",shape=record]
+504[label="Espacio Vacio",shape=record]
+534[label="Carnet: 201582352
+Nombre: Hoja de trabajo 2 de Sistemas Operativos 1
+Descripcion: Empezar la Hoja de trabajo 2 de Sistemas Operativos 1
+Materia: Sistemas Operativos 1
+Fecha: 2021/08/25
+Hora: 16
+Estado: Pendiente",shape=record]
+295[label="Carnet: 201234795
+Nombre: Investigacion de Social Humanistica 1
+Descripcion: Hacer la Investigacion de Social Humanistica 1
+Materia: Social Humanistica 1
+Fecha: 2021/08/26
+Hora: 8
+Estado: Incumplido",shape=record]
+325[label="Carnet: 201897987
+Nombre: Hoja de trabajo 3 de IPC2
+Descripcion: Terminar la Hoja de trabajo 3 de IPC2
+Materia: IPC2
+Fecha: 2021/08/26
+Hora: 9
+Estado: Realizado",shape=record]
+355[label="Espacio Vacio",shape=record]
+385[label="Espacio Vacio",shape=record]
+415[label="Espacio Vacio",shape=record]
+445[label="Carnet: 201137248
+Nombre: Ensayo de Practica Inicial
+Descripcion: Hacer el Ensayo de Practica Inicial
+Materia: Practica Inicial
+Fecha: 2021/08/26
+Hora: 13
+Estado: Realizado",shape=record]
+475[label="Espacio Vacio",shape=record]
+505[label="Espacio Vacio",shape=record]
+535[label="Carnet: 201635991
+Nombre: Proyecto 1 de Practica Intermedia
+Descripcion: Realizar el Proyecto 1 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/08/26
+Hora: 16
+Estado: Pendiente",shape=record]
+296[label="Espacio Vacio",shape=record]
+326[label="Espacio Vacio",shape=record]
+356[label="Espacio Vacio",shape=record]
+386[label="Espacio Vacio",shape=record]
+416[label="Carnet: 201740604
+Nombre: Tarea 1 idioma
+Descripcion: Tarea 1 de indioma 4
+Materia: Idioma Tecnico 1
+Fecha: 2021/08/27
+Hora: 12
+Estado: Incumplido",shape=record]
+446[label="Espacio Vacio",shape=record]
+476[label="Espacio Vacio",shape=record]
+506[label="Espacio Vacio",shape=record]
+536[label="Espacio Vacio",shape=record]
+297[label="Espacio Vacio",shape=record]
+327[label="Espacio Vacio",shape=record]
+357[label="Espacio Vacio",shape=record]
+387[label="Espacio Vacio",shape=record]
+417[label="Espacio Vacio",shape=record]
+447[label="Espacio Vacio",shape=record]
+477[label="Espacio Vacio",shape=record]
+507[label="Espacio Vacio",shape=record]
+537[label="Espacio Vacio",shape=record]
+298[label="Espacio Vacio",shape=record]
+328[label="Espacio Vacio",shape=record]
+358[label="Carnet: 201709702
+Nombre: Tarea 1 de Estructuras de Datos
+Descripcion: Entregar la Tarea 1 de Estructuras de Datos
+Materia: Estructuras de Datos
+Fecha: 2021/08/29
+Hora: 10
+Estado: Realizado",shape=record]
+388[label="Carnet: 201864201
+Nombre: Tarea 1 idioma
+Descripcion: Tarea 1 de indioma 4
+Materia: Idioma Tecnico 1
+Fecha: 2021/08/29
+Hora: 11
+Estado: Pendiente",shape=record]
+418[label="Espacio Vacio",shape=record]
+448[label="Espacio Vacio",shape=record]
+478[label="Espacio Vacio",shape=record]
+508[label="Carnet: 201818908
+Nombre: Proyecto 1 de Practica Intermedia
+Descripcion: Hacer el Proyecto 1 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/08/29
+Hora: 15
+Estado: Incumplido",shape=record]
+538[label="Espacio Vacio",shape=record]
+299[label="Espacio Vacio",shape=record]
+329[label="Espacio Vacio",shape=record]
+359[label="Espacio Vacio",shape=record]
+389[label="Espacio Vacio",shape=record]
+419[label="Carnet: 201309890
+Nombre: Proyecto 1 de Practica Intermedia
+Descripcion: Hacer el Proyecto 1 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/08/30
+Hora: 12
+Estado: Incumplido",shape=record]
+449[label="Espacio Vacio",shape=record]
+479[label="Carnet: 201537627
+Nombre: Tarea 1 de Estructuras de Datos
+Descripcion: Entregar la Tarea 1 de Estructuras de Datos
+Materia: Estructuras de Datos
+Fecha: 2021/08/30
+Hora: 14
+Estado: Realizado",shape=record]
+509[label="Espacio Vacio",shape=record]
+539[label="Espacio Vacio",shape=record]
+540[label="Espacio Vacio",shape=record]
+570[label="Carnet: 201309890
+Nombre: Hoja de trabajo 3 de Fisica 3
+Descripcion: Terminar la Hoja de trabajo 3 de Fisica 3
+Materia: Fisica 3
+Fecha: 2021/09/01
+Hora: 9
+Estado: Pendiente",shape=record]
+600[label="Espacio Vacio",shape=record]
+630[label="Carnet: 201643353
+Nombre: Hoja de trabajo 2 de Matematica Computo 1
+Descripcion: Entregar la Hoja de trabajo 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/01
+Hora: 11
+Estado: Pendiente",shape=record]
+660[label="Carnet: 201509061
+Nombre: Proyecto 2 de Matematica Basica 2
+Descripcion: Terminar el Proyecto 2 de Matematica Basica 2
+Materia: Matematica Basica 2
+Fecha: 2021/09/01
+Hora: 12
+Estado: Incumplido",shape=record]
+690[label="Espacio Vacio",shape=record]
+720[label="Espacio Vacio",shape=record]
+750[label="Espacio Vacio",shape=record]
+780[label="Espacio Vacio",shape=record]
+541[label="Espacio Vacio",shape=record]
+571[label="Espacio Vacio",shape=record]
+601[label="Carnet: 201125580
+Nombre: Proyecto 2 de Matematica Intermedia 3
+Descripcion: Realizar el Proyecto 2 de Matematica Intermedia 3
+Materia: Matematica Intermedia 3
+Fecha: 2021/09/02
+Hora: 10
+Estado: Realizado",shape=record]
+631[label="Espacio Vacio",shape=record]
+661[label="Espacio Vacio",shape=record]
+691[label="Espacio Vacio",shape=record]
+721[label="Carnet: 201582352
+Nombre: Examen de Matematica Computo 1
+Descripcion: Realizar el Examen de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/02
+Hora: 14
+Estado: Pendiente",shape=record]
+751[label="Carnet: 201234795
+Nombre: Tarea de mate
+Descripcion: Realizar la tarea para el primer parcial
+Materia: Matematica Intermedia 1
+Fecha: 2021/09/02
+Hora: 15
+Estado: Realizado",shape=record]
+781[label="Espacio Vacio",shape=record]
+542[label="Espacio Vacio",shape=record]
+572[label="Carnet: 201537627
+Nombre: Tarea 2 de Quimica General 1
+Descripcion: Empezar la Tarea 2 de Quimica General 1
+Materia: Quimica General 1
+Fecha: 2021/09/03
+Hora: 9
+Estado: Incumplido",shape=record]
+602[label="Carnet: 201210811
+Nombre: Proyecto 1 de Fisica 2
+Descripcion: Empezar el Proyecto 1 de Fisica 2
+Materia: Fisica 2
+Fecha: 2021/09/03
+Hora: 10
+Estado: Realizado",shape=record]
+632[label="Espacio Vacio",shape=record]
+662[label="Espacio Vacio",shape=record]
+692[label="Espacio Vacio",shape=record]
+722[label="Espacio Vacio",shape=record]
+752[label="Espacio Vacio",shape=record]
+782[label="Espacio Vacio",shape=record]
+543[label="Carnet: 201709702
+Nombre: Examen de Matematica Computo 1
+Descripcion: Realizar el Examen de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/04
+Hora: 8
+Estado: Realizado",shape=record]
+573[label="Carnet: 201489697
+Nombre: Proyecto 2 de Matematica Intermedia 3
+Descripcion: Realizar el Proyecto 2 de Matematica Intermedia 3
+Materia: Matematica Intermedia 3
+Fecha: 2021/09/04
+Hora: 9
+Estado: Incumplido",shape=record]
+603[label="Carnet: 201933753
+Nombre: Ensayo de Manejo e Implementacion de Archios
+Descripcion: Entregar el Ensayo de Manejo e Implementacion de Archios
+Materia: Manejo e Implementacion de Archios
+Fecha: 2021/09/04
+Hora: 10
+Estado: Realizado",shape=record]
+633[label="Carnet: 201389879
+Nombre: Practica edd
+Descripcion: Terminar la practica
+Materia: Estructuras de datos
+Fecha: 2021/09/04
+Hora: 11
+Estado: Incumplido",shape=record]
+663[label="Espacio Vacio",shape=record]
+693[label="Espacio Vacio",shape=record]
+723[label="Espacio Vacio",shape=record]
+753[label="Espacio Vacio",shape=record]
+783[label="Espacio Vacio",shape=record]
+544[label="Espacio Vacio",shape=record]
+574[label="Espacio Vacio",shape=record]
+604[label="Carnet: 201709702
+Nombre: Tarea 5 de Lenguajes Formales y de Programacion
+Descripcion: Terminar la Tarea 5 de Lenguajes Formales y de Programacion
+Materia: Lenguajes Formales y de Programacion
+Fecha: 2021/09/05
+Hora: 10
+Estado: Pendiente",shape=record]
+634[label="Carnet: 201991578
+Nombre: Tarea 1 de Social Humanistica 1
+Descripcion: Empezar la Tarea 1 de Social Humanistica 1
+Materia: Social Humanistica 1
+Fecha: 2021/09/05
+Hora: 11
+Estado: Realizado",shape=record]
+664[label="Espacio Vacio",shape=record]
+694[label="Carnet: 201698163
+Nombre: Tarea 2 Fisica 2
+Descripcion: Realizar la tarea para el primer parcial
+Materia: Fisica 2
+Fecha: 2021/09/05
+Hora: 13
+Estado: Pendiente",shape=record]
+724[label="Espacio Vacio",shape=record]
+754[label="Espacio Vacio",shape=record]
+784[label="Espacio Vacio",shape=record]
+545[label="Carnet: 201897987
+Nombre: Examen de Matematica Computo 1
+Descripcion: Realizar el Examen de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/06
+Hora: 8
+Estado: Incumplido",shape=record]
+575[label="Carnet: 201500866
+Nombre: Proyecto 1 de Practica Intermedia
+Descripcion: Realizar el Proyecto 1 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/09/06
+Hora: 9
+Estado: Realizado",shape=record]
+605[label="Espacio Vacio",shape=record]
+635[label="Espacio Vacio",shape=record]
+665[label="Espacio Vacio",shape=record]
+695[label="Espacio Vacio",shape=record]
+725[label="Espacio Vacio",shape=record]
+755[label="Espacio Vacio",shape=record]
+785[label="Carnet: 201635991
+Nombre: Examen de Matematica Computo 1
+Descripcion: Realizar el Examen de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/06
+Hora: 16
+Estado: Realizado",shape=record]
+546[label="Espacio Vacio",shape=record]
+576[label="Espacio Vacio",shape=record]
+606[label="Espacio Vacio",shape=record]
+636[label="Espacio Vacio",shape=record]
+666[label="Espacio Vacio",shape=record]
+696[label="Espacio Vacio",shape=record]
+726[label="Espacio Vacio",shape=record]
+756[label="Espacio Vacio",shape=record]
+786[label="Espacio Vacio",shape=record]
+547[label="Carnet: 201635991
+Nombre: Ensayo de Sistemas Operativos 1
+Descripcion: Terminar el Ensayo de Sistemas Operativos 1
+Materia: Sistemas Operativos 1
+Fecha: 2021/09/08
+Hora: 8
+Estado: Realizado",shape=record]
+577[label="Espacio Vacio",shape=record]
+607[label="Espacio Vacio",shape=record]
+637[label="Espacio Vacio",shape=record]
+667[label="Espacio Vacio",shape=record]
+697[label="Espacio Vacio",shape=record]
+727[label="Espacio Vacio",shape=record]
+757[label="Espacio Vacio",shape=record]
+787[label="Carnet: 201412244
+Nombre: Hoja de trabajo 2 de Matematica Computo 1
+Descripcion: Entregar la Hoja de trabajo 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/08
+Hora: 16
+Estado: Pendiente",shape=record]
+548[label="Espacio Vacio",shape=record]
+578[label="Espacio Vacio",shape=record]
+608[label="Espacio Vacio",shape=record]
+638[label="Espacio Vacio",shape=record]
+668[label="Espacio Vacio",shape=record]
+698[label="Espacio Vacio",shape=record]
+728[label="Carnet: 201119966
+Nombre: Practica 3 de Quimica General 1
+Descripcion: Terminar la Practica 3 de Quimica General 1
+Materia: Quimica General 1
+Fecha: 2021/09/09
+Hora: 14
+Estado: Pendiente",shape=record]
+758[label="Espacio Vacio",shape=record]
+788[label="Espacio Vacio",shape=record]
+549[label="Espacio Vacio",shape=record]
+579[label="Carnet: 201210811
+Nombre: Hoja de trabajo 1 de Sistemas Operativos 2
+Descripcion: Hacer la Hoja de trabajo 1 de Sistemas Operativos 2
+Materia: Sistemas Operativos 2
+Fecha: 2021/09/10
+Hora: 9
+Estado: Realizado",shape=record]
+609[label="Espacio Vacio",shape=record]
+639[label="Espacio Vacio",shape=record]
+669[label="Espacio Vacio",shape=record]
+699[label="Carnet: 201327675
+Nombre: Hoja de trabajo 2 de Matematica Computo 1
+Descripcion: Entregar la Hoja de trabajo 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/10
+Hora: 13
+Estado: Incumplido",shape=record]
+729[label="Carnet: 201582352
+Nombre: Estudiar para el examen
+Descripcion: Leer las presentaciones de la 1 a la 5
+Materia: Investigacion de operaciones
+Fecha: 2021/09/10
+Hora: 14
+Estado: Pendiente",shape=record]
+759[label="Espacio Vacio",shape=record]
+789[label="Espacio Vacio",shape=record]
+550[label="Carnet: 201350393
+Nombre: Investigacion de Social Humanistica 1
+Descripcion: Hacer la Investigacion de Social Humanistica 1
+Materia: Social Humanistica 1
+Fecha: 2021/09/11
+Hora: 8
+Estado: Realizado",shape=record]
+580[label="Espacio Vacio",shape=record]
+610[label="Espacio Vacio",shape=record]
+640[label="Espacio Vacio",shape=record]
+670[label="Espacio Vacio",shape=record]
+700[label="Espacio Vacio",shape=record]
+730[label="Espacio Vacio",shape=record]
+760[label="Espacio Vacio",shape=record]
+790[label="Espacio Vacio",shape=record]
+551[label="Espacio Vacio",shape=record]
+581[label="Espacio Vacio",shape=record]
+611[label="Espacio Vacio",shape=record]
+641[label="Espacio Vacio",shape=record]
+671[label="Espacio Vacio",shape=record]
+701[label="Espacio Vacio",shape=record]
+731[label="Espacio Vacio",shape=record]
+761[label="Espacio Vacio",shape=record]
+791[label="Espacio Vacio",shape=record]
+552[label="Espacio Vacio",shape=record]
+582[label="Espacio Vacio",shape=record]
+612[label="Espacio Vacio",shape=record]
+642[label="Espacio Vacio",shape=record]
+672[label="Espacio Vacio",shape=record]
+702[label="Carnet: 201661519
+Nombre: Tarea 5 de Lenguajes Formales y de Programacion
+Descripcion: Terminar la Tarea 5 de Lenguajes Formales y de Programacion
+Materia: Lenguajes Formales y de Programacion
+Fecha: 2021/09/13
+Hora: 13
+Estado: Realizado",shape=record]
+732[label="Espacio Vacio",shape=record]
+762[label="Carnet: 201991578
+Nombre: Examen de Matematica Computo 1
+Descripcion: Realizar el Examen de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/13
+Hora: 15
+Estado: Pendiente",shape=record]
+792[label="Espacio Vacio",shape=record]
+553[label="Espacio Vacio",shape=record]
+583[label="Carnet: 201906670
+Nombre: Tarea 1 idioma
+Descripcion: Tarea 1 de indioma 4
+Materia: Idioma Tecnico 1
+Fecha: 2021/09/14
+Hora: 9
+Estado: Pendiente",shape=record]
+613[label="Espacio Vacio",shape=record]
+643[label="Espacio Vacio",shape=record]
+673[label="Espacio Vacio",shape=record]
+703[label="Espacio Vacio",shape=record]
+733[label="Espacio Vacio",shape=record]
+763[label="Carnet: 201009015
+Nombre: Examen de Sistemas de Bases de Datos 1
+Descripcion: Realizar el Examen de Sistemas de Bases de Datos 1
+Materia: Sistemas de Bases de Datos 1
+Fecha: 2021/09/14
+Hora: 15
+Estado: Pendiente",shape=record]
+793[label="Espacio Vacio",shape=record]
+554[label="Espacio Vacio",shape=record]
+584[label="Carnet: 201991578
+Nombre: Hoja de trabajo 2 de Sistemas Operativos 1
+Descripcion: Empezar la Hoja de trabajo 2 de Sistemas Operativos 1
+Materia: Sistemas Operativos 1
+Fecha: 2021/09/15
+Hora: 9
+Estado: Incumplido",shape=record]
+614[label="Espacio Vacio",shape=record]
+644[label="Carnet: 201906670
+Nombre: Practica 3 de Quimica General 1
+Descripcion: Terminar la Practica 3 de Quimica General 1
+Materia: Quimica General 1
+Fecha: 2021/09/15
+Hora: 11
+Estado: Pendiente",shape=record]
+674[label="Espacio Vacio",shape=record]
+704[label="Carnet: 201402462
+Nombre: Tarea 2 de IPC1
+Descripcion: Hacer la Tarea 2 de IPC1
+Materia: IPC1
+Fecha: 2021/09/15
+Hora: 13
+Estado: Incumplido",shape=record]
+734[label="Espacio Vacio",shape=record]
+764[label="Espacio Vacio",shape=record]
+794[label="Carnet: 201125580
+Nombre: Estudiar para el examen
+Descripcion: Leer las presentaciones de la 1 a la 5
+Materia: Investigacion de operaciones
+Fecha: 2021/09/15
+Hora: 16
+Estado: Realizado",shape=record]
+555[label="Espacio Vacio",shape=record]
+585[label="Carnet: 201402462
+Nombre: Examen de Matematica Computo 1
+Descripcion: Realizar el Examen de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/16
+Hora: 9
+Estado: Realizado",shape=record]
+615[label="Espacio Vacio",shape=record]
+645[label="Espacio Vacio",shape=record]
+675[label="Espacio Vacio",shape=record]
+705[label="Espacio Vacio",shape=record]
+735[label="Espacio Vacio",shape=record]
+765[label="Carnet: 201006295
+Nombre: Practica 2 de Sistemas de Bases de Datos 2
+Descripcion: Entregar la Practica 2 de Sistemas de Bases de Datos 2
+Materia: Sistemas de Bases de Datos 2
+Fecha: 2021/09/16
+Hora: 15
+Estado: Realizado",shape=record]
+795[label="Espacio Vacio",shape=record]
+556[label="Espacio Vacio",shape=record]
+586[label="Espacio Vacio",shape=record]
+616[label="Espacio Vacio",shape=record]
+646[label="Carnet: 201825364
+Nombre: Tarea 4 de Matematica Computo 1
+Descripcion: Realizar la Tarea 4 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/17
+Hora: 11
+Estado: Incumplido",shape=record]
+676[label="Carnet: 201489697
+Nombre: Examen de Matematica Computo 1
+Descripcion: Realizar el Examen de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/17
+Hora: 12
+Estado: Incumplido",shape=record]
+706[label="Espacio Vacio",shape=record]
+736[label="Espacio Vacio",shape=record]
+766[label="Carnet: 201643353
+Nombre: Proyecto 2 de Matematica Basica 2
+Descripcion: Terminar el Proyecto 2 de Matematica Basica 2
+Materia: Matematica Basica 2
+Fecha: 2021/09/17
+Hora: 15
+Estado: Realizado",shape=record]
+796[label="Carnet: 201774497
+Nombre: Tarea 1 de Matematica Computo 1
+Descripcion: Entregar la Tarea 1 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/17
+Hora: 16
+Estado: Realizado",shape=record]
+557[label="Espacio Vacio",shape=record]
+587[label="Espacio Vacio",shape=record]
+617[label="Espacio Vacio",shape=record]
+647[label="Espacio Vacio",shape=record]
+677[label="Espacio Vacio",shape=record]
+707[label="Espacio Vacio",shape=record]
+737[label="Espacio Vacio",shape=record]
+767[label="Carnet: 201125580
+Nombre: Hoja de trabajo 2 de Practica Intermedia
+Descripcion: Terminar la Hoja de trabajo 2 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/09/18
+Hora: 15
+Estado: Realizado",shape=record]
+797[label="Espacio Vacio",shape=record]
+558[label="Espacio Vacio",shape=record]
+588[label="Espacio Vacio",shape=record]
+618[label="Espacio Vacio",shape=record]
+648[label="Espacio Vacio",shape=record]
+678[label="Espacio Vacio",shape=record]
+708[label="Carnet: 201991578
+Nombre: Investigacion de Social Humanistica 1
+Descripcion: Hacer la Investigacion de Social Humanistica 1
+Materia: Social Humanistica 1
+Fecha: 2021/09/19
+Hora: 13
+Estado: Pendiente",shape=record]
+738[label="Espacio Vacio",shape=record]
+768[label="Espacio Vacio",shape=record]
+798[label="Carnet: 201389879
+Nombre: Investigacion de Practica Intermedia
+Descripcion: Hacer la Investigacion de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/09/19
+Hora: 16
+Estado: Incumplido",shape=record]
+559[label="Carnet: 201933753
+Nombre: Practica 3 de Quimica General 1
+Descripcion: Terminar la Practica 3 de Quimica General 1
+Materia: Quimica General 1
+Fecha: 2021/09/20
+Hora: 8
+Estado: Incumplido",shape=record]
+589[label="Carnet: 201402462
+Nombre: Tarea 4 de Matematica Computo 1
+Descripcion: Realizar la Tarea 4 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/20
+Hora: 9
+Estado: Pendiente",shape=record]
+619[label="Espacio Vacio",shape=record]
+649[label="Espacio Vacio",shape=record]
+679[label="Espacio Vacio",shape=record]
+709[label="Espacio Vacio",shape=record]
+739[label="Espacio Vacio",shape=record]
+769[label="Espacio Vacio",shape=record]
+799[label="Espacio Vacio",shape=record]
+560[label="Espacio Vacio",shape=record]
+590[label="Espacio Vacio",shape=record]
+620[label="Espacio Vacio",shape=record]
+650[label="Carnet: 201006295
+Nombre: Hoja de trabajo 1 de Sistemas Operativos 2
+Descripcion: Hacer la Hoja de trabajo 1 de Sistemas Operativos 2
+Materia: Sistemas Operativos 2
+Fecha: 2021/09/21
+Hora: 11
+Estado: Pendiente",shape=record]
+680[label="Carnet: 201646518
+Nombre: Examen de Matematica Computo 1
+Descripcion: Realizar el Examen de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/21
+Hora: 12
+Estado: Incumplido",shape=record]
+710[label="Espacio Vacio",shape=record]
+740[label="Espacio Vacio",shape=record]
+770[label="Espacio Vacio",shape=record]
+800[label="Espacio Vacio",shape=record]
+561[label="Espacio Vacio",shape=record]
+591[label="Carnet: 201667272
+Nombre: Ensayo de Practica Inicial
+Descripcion: Hacer el Ensayo de Practica Inicial
+Materia: Practica Inicial
+Fecha: 2021/09/22
+Hora: 9
+Estado: Incumplido",shape=record]
+621[label="Espacio Vacio",shape=record]
+651[label="Carnet: 201803912
+Nombre: Examen de Matematica Computo 1
+Descripcion: Realizar el Examen de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/22
+Hora: 11
+Estado: Realizado",shape=record]
+681[label="Espacio Vacio",shape=record]
+711[label="Espacio Vacio",shape=record]
+741[label="Espacio Vacio",shape=record]
+771[label="Espacio Vacio",shape=record]
+801[label="Espacio Vacio",shape=record]
+562[label="Espacio Vacio",shape=record]
+592[label="Carnet: 201991578
+Nombre: Examen de Matematica Computo 1
+Descripcion: Realizar el Examen de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/23
+Hora: 9
+Estado: Realizado",shape=record]
+622[label="Espacio Vacio",shape=record]
+652[label="Espacio Vacio",shape=record]
+682[label="Espacio Vacio",shape=record]
+712[label="Espacio Vacio",shape=record]
+742[label="Espacio Vacio",shape=record]
+772[label="Espacio Vacio",shape=record]
+802[label="Espacio Vacio",shape=record]
+563[label="Espacio Vacio",shape=record]
+593[label="Espacio Vacio",shape=record]
+623[label="Espacio Vacio",shape=record]
+653[label="Carnet: 201864201
+Nombre: Investigacion de EDD
+Descripcion: empezar a investigar las estructuras en python
+Materia: Estructuras de datos
+Fecha: 2021/09/24
+Hora: 11
+Estado: Realizado",shape=record]
+683[label="Espacio Vacio",shape=record]
+713[label="Espacio Vacio",shape=record]
+743[label="Espacio Vacio",shape=record]
+773[label="Espacio Vacio",shape=record]
+803[label="Espacio Vacio",shape=record]
+564[label="Espacio Vacio",shape=record]
+594[label="Carnet: 201009015
+Nombre: Examen de Matematica Computo 1
+Descripcion: Realizar el Examen de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/25
+Hora: 9
+Estado: Incumplido",shape=record]
+624[label="Espacio Vacio",shape=record]
+654[label="Espacio Vacio",shape=record]
+684[label="Espacio Vacio",shape=record]
+714[label="Espacio Vacio",shape=record]
+744[label="Espacio Vacio",shape=record]
+774[label="Carnet: 201119966
+Nombre: Tarea 3 de Sistemas Operativos 1
+Descripcion: Empezar la Tarea 3 de Sistemas Operativos 1
+Materia: Sistemas Operativos 1
+Fecha: 2021/09/25
+Hora: 15
+Estado: Pendiente",shape=record]
+804[label="Espacio Vacio",shape=record]
+565[label="Carnet: 201667272
+Nombre: Practica 3 de Sistemas de Bases de Datos 2
+Descripcion: Terminar la Practica 3 de Sistemas de Bases de Datos 2
+Materia: Sistemas de Bases de Datos 2
+Fecha: 2021/09/26
+Hora: 8
+Estado: Realizado",shape=record]
+595[label="Espacio Vacio",shape=record]
+625[label="Espacio Vacio",shape=record]
+655[label="Espacio Vacio",shape=record]
+685[label="Carnet: 201375524
+Nombre: Ensayo de IPC2
+Descripcion: Empezar el Ensayo de IPC2
+Materia: IPC2
+Fecha: 2021/09/26
+Hora: 12
+Estado: Realizado",shape=record]
+715[label="Espacio Vacio",shape=record]
+745[label="Espacio Vacio",shape=record]
+775[label="Espacio Vacio",shape=record]
+805[label="Espacio Vacio",shape=record]
+566[label="Espacio Vacio",shape=record]
+596[label="Espacio Vacio",shape=record]
+626[label="Espacio Vacio",shape=record]
+656[label="Carnet: 201764124
+Nombre: Hoja de trabajo 1 de Matematica Intermedia 3
+Descripcion: Terminar la Hoja de trabajo 1 de Matematica Intermedia 3
+Materia: Matematica Intermedia 3
+Fecha: 2021/09/27
+Hora: 11
+Estado: Incumplido",shape=record]
+686[label="Espacio Vacio",shape=record]
+716[label="Espacio Vacio",shape=record]
+746[label="Carnet: 201147451
+Nombre: Tarea de mate
+Descripcion: Realizar la tarea para el primer parcial
+Materia: Matematica Intermedia 1
+Fecha: 2021/09/27
+Hora: 14
+Estado: Realizado",shape=record]
+776[label="Espacio Vacio",shape=record]
+806[label="Espacio Vacio",shape=record]
+567[label="Carnet: 201009015
+Nombre: Ensayo de Practica Inicial
+Descripcion: Hacer el Ensayo de Practica Inicial
+Materia: Practica Inicial
+Fecha: 2021/09/28
+Hora: 8
+Estado: Realizado",shape=record]
+597[label="Carnet: 201516603
+Nombre: Hoja de trabajo 2 de Matematica Computo 1
+Descripcion: Entregar la Hoja de trabajo 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/28
+Hora: 9
+Estado: Pendiente",shape=record]
+627[label="Carnet: 201489697
+Nombre: Tarea 2 de Matematica Basica 2
+Descripcion: Entregar la Tarea 2 de Matematica Basica 2
+Materia: Matematica Basica 2
+Fecha: 2021/09/28
+Hora: 10
+Estado: Realizado",shape=record]
+657[label="Carnet: 201476680
+Nombre: Tarea 2 de IPC1
+Descripcion: Hacer la Tarea 2 de IPC1
+Materia: IPC1
+Fecha: 2021/09/28
+Hora: 11
+Estado: Pendiente",shape=record]
+687[label="Espacio Vacio",shape=record]
+717[label="Espacio Vacio",shape=record]
+747[label="Carnet: 201509061
+Nombre: Tarea 1 de Matematica Computo 1
+Descripcion: Entregar la Tarea 1 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/09/28
+Hora: 14
+Estado: Incumplido",shape=record]
+777[label="Espacio Vacio",shape=record]
+807[label="Espacio Vacio",shape=record]
+568[label="Espacio Vacio",shape=record]
+598[label="Espacio Vacio",shape=record]
+628[label="Carnet: 201043689
+Nombre: Corto de Sistemas de Bases de Datos 1
+Descripcion: Entregar el Corto de Sistemas de Bases de Datos 1
+Materia: Sistemas de Bases de Datos 1
+Fecha: 2021/09/29
+Hora: 10
+Estado: Incumplido",shape=record]
+658[label="Espacio Vacio",shape=record]
+688[label="Carnet: 201773473
+Nombre: Proyecto 1 de IPC1
+Descripcion: Entregar el Proyecto 1 de IPC1
+Materia: IPC1
+Fecha: 2021/09/29
+Hora: 12
+Estado: Pendiente",shape=record]
+718[label="Espacio Vacio",shape=record]
+748[label="Espacio Vacio",shape=record]
+778[label="Carnet: 201255643
+Nombre: Proyecto 2 de Lenguajes Formales y de Programacion
+Descripcion: Hacer el Proyecto 2 de Lenguajes Formales y de Programacion
+Materia: Lenguajes Formales y de Programacion
+Fecha: 2021/09/29
+Hora: 15
+Estado: Realizado",shape=record]
+808[label="Espacio Vacio",shape=record]
+569[label="Espacio Vacio",shape=record]
+599[label="Espacio Vacio",shape=record]
+629[label="Espacio Vacio",shape=record]
+659[label="Espacio Vacio",shape=record]
+689[label="Espacio Vacio",shape=record]
+719[label="Espacio Vacio",shape=record]
+749[label="Espacio Vacio",shape=record]
+779[label="Espacio Vacio",shape=record]
+809[label="Carnet: 201500866
+Nombre: Proyecto 2 de Lenguajes Formales y de Programacion
+Descripcion: Hacer el Proyecto 2 de Lenguajes Formales y de Programacion
+Materia: Lenguajes Formales y de Programacion
+Fecha: 2021/09/30
+Hora: 16
+Estado: Pendiente",shape=record]
+810[label="Espacio Vacio",shape=record]
+840[label="Carnet: 201234795
+Nombre: Proyecto 1 de IPC1
+Descripcion: Entregar el Proyecto 1 de IPC1
+Materia: IPC1
+Fecha: 2021/10/01
+Hora: 9
+Estado: Realizado",shape=record]
+870[label="Espacio Vacio",shape=record]
+900[label="Espacio Vacio",shape=record]
+930[label="Espacio Vacio",shape=record]
+960[label="Espacio Vacio",shape=record]
+990[label="Espacio Vacio",shape=record]
+1020[label="Carnet: 201864201
+Nombre: Tarea 1 idioma
+Descripcion: Tarea 1 de indioma 4
+Materia: Idioma Tecnico 1
+Fecha: 2021/10/01
+Hora: 15
+Estado: Pendiente",shape=record]
+1050[label="Espacio Vacio",shape=record]
+811[label="Espacio Vacio",shape=record]
+841[label="Carnet: 201500866
+Nombre: Proyecto 1 de Practica Intermedia
+Descripcion: Hacer el Proyecto 1 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/10/02
+Hora: 9
+Estado: Incumplido",shape=record]
+871[label="Espacio Vacio",shape=record]
+901[label="Espacio Vacio",shape=record]
+931[label="Espacio Vacio",shape=record]
+961[label="Carnet: 201709702
+Nombre: Proyecto 2 de Matematica Basica 2
+Descripcion: Terminar el Proyecto 2 de Matematica Basica 2
+Materia: Matematica Basica 2
+Fecha: 2021/10/02
+Hora: 13
+Estado: Incumplido",shape=record]
+991[label="Carnet: 201125580
+Nombre: Practica 2 de IPC1
+Descripcion: Realizar la Practica 2 de IPC1
+Materia: IPC1
+Fecha: 2021/10/02
+Hora: 14
+Estado: Realizado",shape=record]
+1021[label="Carnet: 201803912
+Nombre: Hoja de trabajo 2 de Matematica Computo 1
+Descripcion: Entregar la Hoja de trabajo 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/10/02
+Hora: 15
+Estado: Incumplido",shape=record]
+1051[label="Espacio Vacio",shape=record]
+812[label="Espacio Vacio",shape=record]
+842[label="Carnet: 201183728
+Nombre: Examen de Matematica Computo 1
+Descripcion: Realizar el Examen de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/10/03
+Hora: 9
+Estado: Incumplido",shape=record]
+872[label="Espacio Vacio",shape=record]
+902[label="Espacio Vacio",shape=record]
+932[label="Espacio Vacio",shape=record]
+962[label="Carnet: 201921767
+Nombre: Ensayo de Sistemas Operativos 1
+Descripcion: Terminar el Ensayo de Sistemas Operativos 1
+Materia: Sistemas Operativos 1
+Fecha: 2021/10/03
+Hora: 13
+Estado: Realizado",shape=record]
+992[label="Carnet: 201115140
+Nombre: Practica 1 de Organizacion de Lenguajes y Compiladores 2
+Descripcion: Empezar la Practica 1 de Organizacion de Lenguajes y Compiladores 2
+Materia: Organizacion de Lenguajes y Compiladores 2
+Fecha: 2021/10/03
+Hora: 14
+Estado: Incumplido",shape=record]
+1022[label="Carnet: 201773473
+Nombre: Tarea 2 de Quimica General 1
+Descripcion: Empezar la Tarea 2 de Quimica General 1
+Materia: Quimica General 1
+Fecha: 2021/10/03
+Hora: 15
+Estado: Pendiente",shape=record]
+1052[label="Espacio Vacio",shape=record]
+813[label="Carnet: 201933753
+Nombre: Practica 2 de Sistemas de Bases de Datos 2
+Descripcion: Entregar la Practica 2 de Sistemas de Bases de Datos 2
+Materia: Sistemas de Bases de Datos 2
+Fecha: 2021/10/04
+Hora: 8
+Estado: Incumplido",shape=record]
+843[label="Espacio Vacio",shape=record]
+873[label="Espacio Vacio",shape=record]
+903[label="Carnet: 201511649
+Nombre: Hoja de trabajo 1 de Social Humanistica 1
+Descripcion: Entregar la Hoja de trabajo 1 de Social Humanistica 1
+Materia: Social Humanistica 1
+Fecha: 2021/10/04
+Hora: 11
+Estado: Realizado",shape=record]
+933[label="Espacio Vacio",shape=record]
+963[label="Espacio Vacio",shape=record]
+993[label="Espacio Vacio",shape=record]
+1023[label="Espacio Vacio",shape=record]
+1053[label="Espacio Vacio",shape=record]
+814[label="Carnet: 201698163
+Nombre: Ensayo de Manejo e Implementacion de Archios
+Descripcion: Entregar el Ensayo de Manejo e Implementacion de Archios
+Materia: Manejo e Implementacion de Archios
+Fecha: 2021/10/05
+Hora: 8
+Estado: Realizado",shape=record]
+844[label="Espacio Vacio",shape=record]
+874[label="Espacio Vacio",shape=record]
+904[label="Espacio Vacio",shape=record]
+934[label="Espacio Vacio",shape=record]
+964[label="Espacio Vacio",shape=record]
+994[label="Espacio Vacio",shape=record]
+1024[label="Espacio Vacio",shape=record]
+1054[label="Carnet: 201173540
+Nombre: Ensayo de Manejo e Implementacion de Archios
+Descripcion: Entregar el Ensayo de Manejo e Implementacion de Archios
+Materia: Manejo e Implementacion de Archios
+Fecha: 2021/10/05
+Hora: 16
+Estado: Pendiente",shape=record]
+815[label="Espacio Vacio",shape=record]
+845[label="Carnet: 201350393
+Nombre: Tarea 3 de Sistemas Operativos 1
+Descripcion: Empezar la Tarea 3 de Sistemas Operativos 1
+Materia: Sistemas Operativos 1
+Fecha: 2021/10/06
+Hora: 9
+Estado: Pendiente",shape=record]
+875[label="Espacio Vacio",shape=record]
+905[label="Espacio Vacio",shape=record]
+935[label="Espacio Vacio",shape=record]
+965[label="Espacio Vacio",shape=record]
+995[label="Espacio Vacio",shape=record]
+1025[label="Espacio Vacio",shape=record]
+1055[label="Espacio Vacio",shape=record]
+816[label="Espacio Vacio",shape=record]
+846[label="Carnet: 201774497
+Nombre: Practica 3 de Sistemas de Bases de Datos 2
+Descripcion: Terminar la Practica 3 de Sistemas de Bases de Datos 2
+Materia: Sistemas de Bases de Datos 2
+Fecha: 2021/10/07
+Hora: 9
+Estado: Pendiente",shape=record]
+876[label="Espacio Vacio",shape=record]
+906[label="Carnet: 201006295
+Nombre: Practica 2 de Fisica 2
+Descripcion: Realizar la Practica 2 de Fisica 2
+Materia: Fisica 2
+Fecha: 2021/10/07
+Hora: 11
+Estado: Realizado",shape=record]
+936[label="Espacio Vacio",shape=record]
+966[label="Espacio Vacio",shape=record]
+996[label="Espacio Vacio",shape=record]
+1026[label="Espacio Vacio",shape=record]
+1056[label="Carnet: 201461415
+Nombre: Tarea 2 de Matematica Basica 2
+Descripcion: Entregar la Tarea 2 de Matematica Basica 2
+Materia: Matematica Basica 2
+Fecha: 2021/10/07
+Hora: 16
+Estado: Realizado",shape=record]
+817[label="Espacio Vacio",shape=record]
+847[label="Espacio Vacio",shape=record]
+877[label="Espacio Vacio",shape=record]
+907[label="Espacio Vacio",shape=record]
+937[label="Carnet: 201375524
+Nombre: Hoja de trabajo 1 de Matematica Intermedia 1
+Descripcion: Entregar la Hoja de trabajo 1 de Matematica Intermedia 1
+Materia: Matematica Intermedia 1
+Fecha: 2021/10/08
+Hora: 12
+Estado: Pendiente",shape=record]
+967[label="Carnet: 201661519
+Nombre: Hoja de trabajo 2 de Matematica Computo 1
+Descripcion: Entregar la Hoja de trabajo 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/10/08
+Hora: 13
+Estado: Realizado",shape=record]
+997[label="Carnet: 201803912
+Nombre: Examen de Matematica Computo 1
+Descripcion: Realizar el Examen de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/10/08
+Hora: 14
+Estado: Pendiente",shape=record]
+1027[label="Carnet: 201661519
+Nombre: Practica 2 de IPC1
+Descripcion: Realizar la Practica 2 de IPC1
+Materia: IPC1
+Fecha: 2021/10/08
+Hora: 15
+Estado: Pendiente",shape=record]
+1057[label="Espacio Vacio",shape=record]
+818[label="Espacio Vacio",shape=record]
+848[label="Espacio Vacio",shape=record]
+878[label="Carnet: 201906670
+Nombre: Tarea 2 de Quimica General 1
+Descripcion: Hacer la Tarea 2 de Quimica General 1
+Materia: Quimica General 1
+Fecha: 2021/10/09
+Hora: 10
+Estado: Pendiente",shape=record]
+908[label="Espacio Vacio",shape=record]
+938[label="Carnet: 201773473
+Nombre: Examen de Matematica Computo 1
+Descripcion: Realizar el Examen de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/10/09
+Hora: 12
+Estado: Realizado",shape=record]
+968[label="Espacio Vacio",shape=record]
+998[label="Espacio Vacio",shape=record]
+1028[label="Espacio Vacio",shape=record]
+1058[label="Carnet: 201864201
+Nombre: Hoja de trabajo 2 de Practica Intermedia
+Descripcion: Terminar la Hoja de trabajo 2 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/10/09
+Hora: 16
+Estado: Realizado",shape=record]
+819[label="Espacio Vacio",shape=record]
+849[label="Espacio Vacio",shape=record]
+879[label="Espacio Vacio",shape=record]
+909[label="Carnet: 201906670
+Nombre: Proyecto 1 de Fisica 2
+Descripcion: Empezar el Proyecto 1 de Fisica 2
+Materia: Fisica 2
+Fecha: 2021/10/10
+Hora: 11
+Estado: Incumplido",shape=record]
+939[label="Espacio Vacio",shape=record]
+969[label="Espacio Vacio",shape=record]
+999[label="Espacio Vacio",shape=record]
+1029[label="Espacio Vacio",shape=record]
+1059[label="Carnet: 201131811
+Nombre: Tarea 4 de Matematica Computo 1
+Descripcion: Realizar la Tarea 4 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/10/10
+Hora: 16
+Estado: Realizado",shape=record]
+820[label="Espacio Vacio",shape=record]
+850[label="Espacio Vacio",shape=record]
+880[label="Espacio Vacio",shape=record]
+910[label="Espacio Vacio",shape=record]
+940[label="Espacio Vacio",shape=record]
+970[label="Espacio Vacio",shape=record]
+1000[label="Carnet: 201803912
+Nombre: Hoja de trabajo 1 de Sistemas Operativos 2
+Descripcion: Hacer la Hoja de trabajo 1 de Sistemas Operativos 2
+Materia: Sistemas Operativos 2
+Fecha: 2021/10/11
+Hora: 14
+Estado: Incumplido",shape=record]
+1030[label="Espacio Vacio",shape=record]
+1060[label="Espacio Vacio",shape=record]
+821[label="Carnet: 201947729
+Nombre: Examen de Lenguajes Formales y de Programacion
+Descripcion: Realizar el Examen de Lenguajes Formales y de Programacion
+Materia: Lenguajes Formales y de Programacion
+Fecha: 2021/10/12
+Hora: 8
+Estado: Realizado",shape=record]
+851[label="Espacio Vacio",shape=record]
+881[label="Espacio Vacio",shape=record]
+911[label="Espacio Vacio",shape=record]
+941[label="Espacio Vacio",shape=record]
+971[label="Carnet: 201740604
+Nombre: Estudiar para el examen
+Descripcion: Leer las presentaciones de la 1 a la 5
+Materia: Investigacion de operaciones
+Fecha: 2021/10/12
+Hora: 13
+Estado: Realizado",shape=record]
+1001[label="Espacio Vacio",shape=record]
+1031[label="Espacio Vacio",shape=record]
+1061[label="Carnet: 201137248
+Nombre: Ensayo de IPC2
+Descripcion: Empezar el Ensayo de IPC2
+Materia: IPC2
+Fecha: 2021/10/12
+Hora: 16
+Estado: Incumplido",shape=record]
+822[label="Espacio Vacio",shape=record]
+852[label="Carnet: 201359507
+Nombre: Practica 3 de Sistemas de Bases de Datos 2
+Descripcion: Terminar la Practica 3 de Sistemas de Bases de Datos 2
+Materia: Sistemas de Bases de Datos 2
+Fecha: 2021/10/13
+Hora: 9
+Estado: Incumplido",shape=record]
+882[label="Espacio Vacio",shape=record]
+912[label="Espacio Vacio",shape=record]
+942[label="Espacio Vacio",shape=record]
+972[label="Espacio Vacio",shape=record]
+1002[label="Espacio Vacio",shape=record]
+1032[label="Espacio Vacio",shape=record]
+1062[label="Espacio Vacio",shape=record]
+823[label="Espacio Vacio",shape=record]
+853[label="Espacio Vacio",shape=record]
+883[label="Espacio Vacio",shape=record]
+913[label="Espacio Vacio",shape=record]
+943[label="Espacio Vacio",shape=record]
+973[label="Espacio Vacio",shape=record]
+1003[label="Espacio Vacio",shape=record]
+1033[label="Espacio Vacio",shape=record]
+1063[label="Espacio Vacio",shape=record]
+824[label="Espacio Vacio",shape=record]
+854[label="Espacio Vacio",shape=record]
+884[label="Espacio Vacio",shape=record]
+914[label="Espacio Vacio",shape=record]
+944[label="Carnet: 201147451
+Nombre: Tarea 2 de Quimica General 1
+Descripcion: Empezar la Tarea 2 de Quimica General 1
+Materia: Quimica General 1
+Fecha: 2021/10/15
+Hora: 12
+Estado: Realizado",shape=record]
+974[label="Carnet: 201210811
+Nombre: Hoja de trabajo 1 de Social Humanistica 1
+Descripcion: Entregar la Hoja de trabajo 1 de Social Humanistica 1
+Materia: Social Humanistica 1
+Fecha: 2021/10/15
+Hora: 13
+Estado: Pendiente",shape=record]
+1004[label="Carnet: 201933753
+Nombre: Proyecto 2 de Matematica Basica 2
+Descripcion: Terminar el Proyecto 2 de Matematica Basica 2
+Materia: Matematica Basica 2
+Fecha: 2021/10/15
+Hora: 14
+Estado: Incumplido",shape=record]
+1034[label="Espacio Vacio",shape=record]
+1064[label="Carnet: 201764124
+Nombre: Tarea 2 de Matematica Basica 2
+Descripcion: Entregar la Tarea 2 de Matematica Basica 2
+Materia: Matematica Basica 2
+Fecha: 2021/10/15
+Hora: 16
+Estado: Incumplido",shape=record]
+825[label="Espacio Vacio",shape=record]
+855[label="Espacio Vacio",shape=record]
+885[label="Espacio Vacio",shape=record]
+915[label="Espacio Vacio",shape=record]
+945[label="Espacio Vacio",shape=record]
+975[label="Espacio Vacio",shape=record]
+1005[label="Espacio Vacio",shape=record]
+1035[label="Espacio Vacio",shape=record]
+1065[label="Espacio Vacio",shape=record]
+826[label="Espacio Vacio",shape=record]
+856[label="Espacio Vacio",shape=record]
+886[label="Carnet: 201232485
+Nombre: Proyecto 1 de Fisica 2
+Descripcion: Empezar el Proyecto 1 de Fisica 2
+Materia: Fisica 2
+Fecha: 2021/10/17
+Hora: 10
+Estado: Pendiente",shape=record]
+916[label="Carnet: 201646518
+Nombre: Practica 2 de IPC1
+Descripcion: Realizar la Practica 2 de IPC1
+Materia: IPC1
+Fecha: 2021/10/17
+Hora: 11
+Estado: Pendiente",shape=record]
+946[label="Espacio Vacio",shape=record]
+976[label="Espacio Vacio",shape=record]
+1006[label="Espacio Vacio",shape=record]
+1036[label="Espacio Vacio",shape=record]
+1066[label="Espacio Vacio",shape=record]
+827[label="Carnet: 201137248
+Nombre: Hoja de trabajo 2 de Matematica Computo 1
+Descripcion: Entregar la Hoja de trabajo 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/10/18
+Hora: 8
+Estado: Realizado",shape=record]
+857[label="Espacio Vacio",shape=record]
+887[label="Espacio Vacio",shape=record]
+917[label="Espacio Vacio",shape=record]
+947[label="Espacio Vacio",shape=record]
+977[label="Espacio Vacio",shape=record]
+1007[label="Espacio Vacio",shape=record]
+1037[label="Espacio Vacio",shape=record]
+1067[label="Carnet: 201068965
+Nombre: Tarea 3 de Organizacion de Lenguajes y Compiladores 2
+Descripcion: Empezar la Tarea 3 de Organizacion de Lenguajes y Compiladores 2
+Materia: Organizacion de Lenguajes y Compiladores 2
+Fecha: 2021/10/18
+Hora: 16
+Estado: Incumplido",shape=record]
+828[label="Espacio Vacio",shape=record]
+858[label="Espacio Vacio",shape=record]
+888[label="Espacio Vacio",shape=record]
+918[label="Espacio Vacio",shape=record]
+948[label="Espacio Vacio",shape=record]
+978[label="Carnet: 201173540
+Nombre: Ensayo de IPC2
+Descripcion: Empezar el Ensayo de IPC2
+Materia: IPC2
+Fecha: 2021/10/19
+Hora: 13
+Estado: Realizado",shape=record]
+1008[label="Espacio Vacio",shape=record]
+1038[label="Espacio Vacio",shape=record]
+1068[label="Espacio Vacio",shape=record]
+829[label="Espacio Vacio",shape=record]
+859[label="Espacio Vacio",shape=record]
+889[label="Carnet: 201359507
+Nombre: Tarea 2 Fisica 2
+Descripcion: Realizar la tarea para el primer parcial
+Materia: Fisica 2
+Fecha: 2021/10/20
+Hora: 10
+Estado: Pendiente",shape=record]
+919[label="Espacio Vacio",shape=record]
+949[label="Espacio Vacio",shape=record]
+979[label="Espacio Vacio",shape=record]
+1009[label="Espacio Vacio",shape=record]
+1039[label="Carnet: 201157605
+Nombre: Tarea 1 de Social Humanistica 1
+Descripcion: Empezar la Tarea 1 de Social Humanistica 1
+Materia: Social Humanistica 1
+Fecha: 2021/10/20
+Hora: 15
+Estado: Incumplido",shape=record]
+1069[label="Espacio Vacio",shape=record]
+830[label="Espacio Vacio",shape=record]
+860[label="Espacio Vacio",shape=record]
+890[label="Espacio Vacio",shape=record]
+920[label="Espacio Vacio",shape=record]
+950[label="Carnet: 201119966
+Nombre: Tarea 1 idioma
+Descripcion: Tarea 1 de indioma 4
+Materia: Idioma Tecnico 1
+Fecha: 2021/10/21
+Hora: 12
+Estado: Pendiente",shape=record]
+980[label="Espacio Vacio",shape=record]
+1010[label="Espacio Vacio",shape=record]
+1040[label="Espacio Vacio",shape=record]
+1070[label="Espacio Vacio",shape=record]
+831[label="Espacio Vacio",shape=record]
+861[label="Espacio Vacio",shape=record]
+891[label="Carnet: 201375524
+Nombre: Corto de Sistemas de Bases de Datos 1
+Descripcion: Entregar el Corto de Sistemas de Bases de Datos 1
+Materia: Sistemas de Bases de Datos 1
+Fecha: 2021/10/22
+Hora: 10
+Estado: Pendiente",shape=record]
+921[label="Espacio Vacio",shape=record]
+951[label="Espacio Vacio",shape=record]
+981[label="Espacio Vacio",shape=record]
+1011[label="Carnet: 201327675
+Nombre: Ensayo de Practica Inicial
+Descripcion: Hacer el Ensayo de Practica Inicial
+Materia: Practica Inicial
+Fecha: 2021/10/22
+Hora: 14
+Estado: Incumplido",shape=record]
+1041[label="Espacio Vacio",shape=record]
+1071[label="Carnet: 201669286
+Nombre: Hoja de trabajo 3 de IPC2
+Descripcion: Terminar la Hoja de trabajo 3 de IPC2
+Materia: IPC2
+Fecha: 2021/10/22
+Hora: 16
+Estado: Incumplido",shape=record]
+832[label="Carnet: 201790782
+Nombre: Examen de Sistemas de Bases de Datos 1
+Descripcion: Realizar el Examen de Sistemas de Bases de Datos 1
+Materia: Sistemas de Bases de Datos 1
+Fecha: 2021/10/23
+Hora: 8
+Estado: Realizado",shape=record]
+862[label="Espacio Vacio",shape=record]
+892[label="Espacio Vacio",shape=record]
+922[label="Espacio Vacio",shape=record]
+952[label="Carnet: 201350393
+Nombre: Investigacion de Practica Intermedia
+Descripcion: Hacer la Investigacion de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/10/23
+Hora: 12
+Estado: Pendiente",shape=record]
+982[label="Espacio Vacio",shape=record]
+1012[label="Espacio Vacio",shape=record]
+1042[label="Espacio Vacio",shape=record]
+1072[label="Espacio Vacio",shape=record]
+833[label="Espacio Vacio",shape=record]
+863[label="Espacio Vacio",shape=record]
+893[label="Espacio Vacio",shape=record]
+923[label="Espacio Vacio",shape=record]
+953[label="Carnet: 201906670
+Nombre: Hoja de trabajo 1 de Sistemas Operativos 2
+Descripcion: Hacer la Hoja de trabajo 1 de Sistemas Operativos 2
+Materia: Sistemas Operativos 2
+Fecha: 2021/10/24
+Hora: 12
+Estado: Realizado",shape=record]
+983[label="Espacio Vacio",shape=record]
+1013[label="Espacio Vacio",shape=record]
+1043[label="Carnet: 201374369
+Nombre: Hoja de trabajo 2 de Matematica Computo 1
+Descripcion: Entregar la Hoja de trabajo 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/10/24
+Hora: 15
+Estado: Incumplido",shape=record]
+1073[label="Espacio Vacio",shape=record]
+834[label="Carnet: 201110247
+Nombre: Hoja de trabajo 3 de Fisica 3
+Descripcion: Terminar la Hoja de trabajo 3 de Fisica 3
+Materia: Fisica 3
+Fecha: 2021/10/25
+Hora: 8
+Estado: Pendiente",shape=record]
+864[label="Espacio Vacio",shape=record]
+894[label="Espacio Vacio",shape=record]
+924[label="Carnet: 201157605
+Nombre: Tarea de mate
+Descripcion: Realizar la tarea para el primer parcial
+Materia: Matematica Intermedia 1
+Fecha: 2021/10/25
+Hora: 11
+Estado: Incumplido",shape=record]
+954[label="Carnet: 201402462
+Nombre: Tarea 1 idioma
+Descripcion: Tarea 1 de indioma 4
+Materia: Idioma Tecnico 1
+Fecha: 2021/10/25
+Hora: 12
+Estado: Pendiente",shape=record]
+984[label="Espacio Vacio",shape=record]
+1014[label="Espacio Vacio",shape=record]
+1044[label="Espacio Vacio",shape=record]
+1074[label="Carnet: 201137248
+Nombre: Proyecto 1 de Practica Intermedia
+Descripcion: Realizar el Proyecto 1 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/10/25
+Hora: 16
+Estado: Pendiente",shape=record]
+835[label="Carnet: 201157605
+Nombre: Proyecto 1 de Practica Intermedia
+Descripcion: Hacer el Proyecto 1 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/10/26
+Hora: 8
+Estado: Incumplido",shape=record]
+865[label="Carnet: 201255643
+Nombre: Hoja de trabajo 1 de Matematica Intermedia 1
+Descripcion: Entregar la Hoja de trabajo 1 de Matematica Intermedia 1
+Materia: Matematica Intermedia 1
+Fecha: 2021/10/26
+Hora: 9
+Estado: Pendiente",shape=record]
+895[label="Espacio Vacio",shape=record]
+925[label="Espacio Vacio",shape=record]
+955[label="Espacio Vacio",shape=record]
+985[label="Carnet: 201646518
+Nombre: Practica 1 de Fisica 1
+Descripcion: Realizar la Practica 1 de Fisica 1
+Materia: Fisica 1
+Fecha: 2021/10/26
+Hora: 13
+Estado: Pendiente",shape=record]
+1015[label="Espacio Vacio",shape=record]
+1045[label="Espacio Vacio",shape=record]
+1075[label="Espacio Vacio",shape=record]
+836[label="Espacio Vacio",shape=record]
+866[label="Carnet: 201537627
+Nombre: Tarea 3 de Organizacion de Lenguajes y Compiladores 2
+Descripcion: Empezar la Tarea 3 de Organizacion de Lenguajes y Compiladores 2
+Materia: Organizacion de Lenguajes y Compiladores 2
+Fecha: 2021/10/27
+Hora: 9
+Estado: Incumplido",shape=record]
+896[label="Espacio Vacio",shape=record]
+926[label="Carnet: 201110247
+Nombre: Tarea 5 de Lenguajes Formales y de Programacion
+Descripcion: Terminar la Tarea 5 de Lenguajes Formales y de Programacion
+Materia: Lenguajes Formales y de Programacion
+Fecha: 2021/10/27
+Hora: 11
+Estado: Incumplido",shape=record]
+956[label="Carnet: 201816850
+Nombre: Hoja de trabajo 2 de Matematica Intermedia 2
+Descripcion: Empezar la Hoja de trabajo 2 de Matematica Intermedia 2
+Materia: Matematica Intermedia 2
+Fecha: 2021/10/27
+Hora: 12
+Estado: Incumplido",shape=record]
+986[label="Carnet: 201537627
+Nombre: Proyecto 2 de Lenguajes Formales y de Programacion
+Descripcion: Hacer el Proyecto 2 de Lenguajes Formales y de Programacion
+Materia: Lenguajes Formales y de Programacion
+Fecha: 2021/10/27
+Hora: 13
+Estado: Incumplido",shape=record]
+1016[label="Espacio Vacio",shape=record]
+1046[label="Espacio Vacio",shape=record]
+1076[label="Espacio Vacio",shape=record]
+837[label="Espacio Vacio",shape=record]
+867[label="Espacio Vacio",shape=record]
+897[label="Espacio Vacio",shape=record]
+927[label="Carnet: 201774497
+Nombre: Tarea 2 Fisica 2
+Descripcion: Realizar la tarea para el primer parcial
+Materia: Fisica 2
+Fecha: 2021/10/28
+Hora: 11
+Estado: Incumplido",shape=record]
+957[label="Espacio Vacio",shape=record]
+987[label="Espacio Vacio",shape=record]
+1017[label="Espacio Vacio",shape=record]
+1047[label="Espacio Vacio",shape=record]
+1077[label="Carnet: 201661519
+Nombre: Hoja de trabajo 2 de Matematica Computo 1
+Descripcion: Entregar la Hoja de trabajo 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/10/28
+Hora: 16
+Estado: Realizado",shape=record]
+838[label="Espacio Vacio",shape=record]
+868[label="Espacio Vacio",shape=record]
+898[label="Espacio Vacio",shape=record]
+928[label="Carnet: 201669286
+Nombre: Practica 2 de Fisica 2
+Descripcion: Realizar la Practica 2 de Fisica 2
+Materia: Fisica 2
+Fecha: 2021/10/29
+Hora: 11
+Estado: Incumplido",shape=record]
+958[label="Carnet: 201646518
+Nombre: Tarea 2 de Matematica Computo 1
+Descripcion: Terminar la Tarea 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/10/29
+Hora: 12
+Estado: Incumplido",shape=record]
+988[label="Espacio Vacio",shape=record]
+1018[label="Carnet: 201183728
+Nombre: Practica 2 de IPC1
+Descripcion: Realizar la Practica 2 de IPC1
+Materia: IPC1
+Fecha: 2021/10/29
+Hora: 14
+Estado: Incumplido",shape=record]
+1048[label="Espacio Vacio",shape=record]
+1078[label="Espacio Vacio",shape=record]
+839[label="Espacio Vacio",shape=record]
+869[label="Espacio Vacio",shape=record]
+899[label="Carnet: 201764124
+Nombre: Hoja de trabajo 1 de Social Humanistica 1
+Descripcion: Entregar la Hoja de trabajo 1 de Social Humanistica 1
+Materia: Social Humanistica 1
+Fecha: 2021/10/30
+Hora: 10
+Estado: Realizado",shape=record]
+929[label="Carnet: 201816850
+Nombre: Investigacion de EDD
+Descripcion: empezar a investigar las estructuras en python
+Materia: Estructuras de datos
+Fecha: 2021/10/30
+Hora: 11
+Estado: Incumplido",shape=record]
+959[label="Espacio Vacio",shape=record]
+989[label="Espacio Vacio",shape=record]
+1019[label="Espacio Vacio",shape=record]
+1049[label="Carnet: 201774497
+Nombre: Proyecto 1 de Fisica 2
+Descripcion: Empezar el Proyecto 1 de Fisica 2
+Materia: Fisica 2
+Fecha: 2021/10/30
+Hora: 15
+Estado: Realizado",shape=record]
+1079[label="Espacio Vacio",shape=record]
+1080[label="Espacio Vacio",shape=record]
+1110[label="Espacio Vacio",shape=record]
+1140[label="Espacio Vacio",shape=record]
+1170[label="Espacio Vacio",shape=record]
+1200[label="Espacio Vacio",shape=record]
+1230[label="Carnet: 201315898
+Nombre: Hoja de trabajo 1 de Matematica Intermedia 1
+Descripcion: Entregar la Hoja de trabajo 1 de Matematica Intermedia 1
+Materia: Matematica Intermedia 1
+Fecha: 2021/11/01
+Hora: 13
+Estado: Incumplido",shape=record]
+1260[label="Carnet: 201667272
+Nombre: Investigacion de EDD
+Descripcion: empezar a investigar las estructuras en python
+Materia: Estructuras de datos
+Fecha: 2021/11/01
+Hora: 14
+Estado: Incumplido",shape=record]
+1290[label="Espacio Vacio",shape=record]
+1320[label="Carnet: 201183728
+Nombre: Proyecto 1 de Practica Intermedia
+Descripcion: Hacer el Proyecto 1 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/11/01
+Hora: 16
+Estado: Incumplido",shape=record]
+1081[label="Espacio Vacio",shape=record]
+1111[label="Carnet: 201509061
+Nombre: Tarea 2 de IPC1
+Descripcion: Hacer la Tarea 2 de IPC1
+Materia: IPC1
+Fecha: 2021/11/02
+Hora: 9
+Estado: Pendiente",shape=record]
+1141[label="Espacio Vacio",shape=record]
+1171[label="Espacio Vacio",shape=record]
+1201[label="Carnet: 201131811
+Nombre: Practica 2 de Sistemas de Bases de Datos 2
+Descripcion: Entregar la Practica 2 de Sistemas de Bases de Datos 2
+Materia: Sistemas de Bases de Datos 2
+Fecha: 2021/11/02
+Hora: 12
+Estado: Realizado",shape=record]
+1231[label="Carnet: 201315898
+Nombre: Hoja de trabajo 2 de Sistemas Operativos 1
+Descripcion: Empezar la Hoja de trabajo 2 de Sistemas Operativos 1
+Materia: Sistemas Operativos 1
+Fecha: 2021/11/02
+Hora: 13
+Estado: Incumplido",shape=record]
+1261[label="Carnet: 201309890
+Nombre: Corto de Sistemas de Bases de Datos 1
+Descripcion: Entregar el Corto de Sistemas de Bases de Datos 1
+Materia: Sistemas de Bases de Datos 1
+Fecha: 2021/11/02
+Hora: 14
+Estado: Incumplido",shape=record]
+1291[label="Carnet: 201022466
+Nombre: Hoja de trabajo 2 de Practica Intermedia
+Descripcion: Terminar la Hoja de trabajo 2 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/11/02
+Hora: 15
+Estado: Pendiente",shape=record]
+1321[label="Carnet: 201803912
+Nombre: Proyecto 2 de Lenguajes Formales y de Programacion
+Descripcion: Hacer el Proyecto 2 de Lenguajes Formales y de Programacion
+Materia: Lenguajes Formales y de Programacion
+Fecha: 2021/11/02
+Hora: 16
+Estado: Realizado",shape=record]
+1082[label="Carnet: 201803912
+Nombre: Hoja de trabajo 2 de Sistemas Operativos 1
+Descripcion: Empezar la Hoja de trabajo 2 de Sistemas Operativos 1
+Materia: Sistemas Operativos 1
+Fecha: 2021/11/03
+Hora: 8
+Estado: Incumplido",shape=record]
+1112[label="Espacio Vacio",shape=record]
+1142[label="Espacio Vacio",shape=record]
+1172[label="Espacio Vacio",shape=record]
+1202[label="Espacio Vacio",shape=record]
+1232[label="Espacio Vacio",shape=record]
+1262[label="Espacio Vacio",shape=record]
+1292[label="Espacio Vacio",shape=record]
+1322[label="Espacio Vacio",shape=record]
+1083[label="Espacio Vacio",shape=record]
+1113[label="Carnet: 201489697
+Nombre: Ensayo de Sistemas Operativos 1
+Descripcion: Terminar el Ensayo de Sistemas Operativos 1
+Materia: Sistemas Operativos 1
+Fecha: 2021/11/04
+Hora: 9
+Estado: Realizado",shape=record]
+1143[label="Carnet: 201991578
+Nombre: Hoja de trabajo 3 de IPC2
+Descripcion: Terminar la Hoja de trabajo 3 de IPC2
+Materia: IPC2
+Fecha: 2021/11/04
+Hora: 10
+Estado: Realizado",shape=record]
+1173[label="Carnet: 201509061
+Nombre: Tarea 1 idioma
+Descripcion: Tarea 1 de indioma 4
+Materia: Idioma Tecnico 1
+Fecha: 2021/11/04
+Hora: 11
+Estado: Pendiente",shape=record]
+1203[label="Espacio Vacio",shape=record]
+1233[label="Espacio Vacio",shape=record]
+1263[label="Espacio Vacio",shape=record]
+1293[label="Carnet: 201803912
+Nombre: Corto de Sistemas de Bases de Datos 1
+Descripcion: Entregar el Corto de Sistemas de Bases de Datos 1
+Materia: Sistemas de Bases de Datos 1
+Fecha: 2021/11/04
+Hora: 15
+Estado: Realizado",shape=record]
+1323[label="Espacio Vacio",shape=record]
+1084[label="Espacio Vacio",shape=record]
+1114[label="Espacio Vacio",shape=record]
+1144[label="Espacio Vacio",shape=record]
+1174[label="Espacio Vacio",shape=record]
+1204[label="Espacio Vacio",shape=record]
+1234[label="Espacio Vacio",shape=record]
+1264[label="Espacio Vacio",shape=record]
+1294[label="Carnet: 201461415
+Nombre: Hoja de trabajo 1 de Social Humanistica 1
+Descripcion: Entregar la Hoja de trabajo 1 de Social Humanistica 1
+Materia: Social Humanistica 1
+Fecha: 2021/11/05
+Hora: 15
+Estado: Realizado",shape=record]
+1324[label="Espacio Vacio",shape=record]
+1085[label="Espacio Vacio",shape=record]
+1115[label="Carnet: 201698163
+Nombre: Practica 1 de Fisica 1
+Descripcion: Realizar la Practica 1 de Fisica 1
+Materia: Fisica 1
+Fecha: 2021/11/06
+Hora: 9
+Estado: Pendiente",shape=record]
+1145[label="Espacio Vacio",shape=record]
+1175[label="Espacio Vacio",shape=record]
+1205[label="Espacio Vacio",shape=record]
+1235[label="Espacio Vacio",shape=record]
+1265[label="Espacio Vacio",shape=record]
+1295[label="Espacio Vacio",shape=record]
+1325[label="Espacio Vacio",shape=record]
+1086[label="Espacio Vacio",shape=record]
+1116[label="Espacio Vacio",shape=record]
+1146[label="Carnet: 201125580
+Nombre: Hoja de trabajo 1 de Matematica Intermedia 3
+Descripcion: Terminar la Hoja de trabajo 1 de Matematica Intermedia 3
+Materia: Matematica Intermedia 3
+Fecha: 2021/11/07
+Hora: 10
+Estado: Pendiente",shape=record]
+1176[label="Espacio Vacio",shape=record]
+1206[label="Espacio Vacio",shape=record]
+1236[label="Espacio Vacio",shape=record]
+1266[label="Espacio Vacio",shape=record]
+1296[label="Espacio Vacio",shape=record]
+1326[label="Espacio Vacio",shape=record]
+1087[label="Carnet: 201947729
+Nombre: Practica 2 de IPC1
+Descripcion: Realizar la Practica 2 de IPC1
+Materia: IPC1
+Fecha: 2021/11/08
+Hora: 8
+Estado: Incumplido",shape=record]
+1117[label="Espacio Vacio",shape=record]
+1147[label="Espacio Vacio",shape=record]
+1177[label="Espacio Vacio",shape=record]
+1207[label="Espacio Vacio",shape=record]
+1237[label="Espacio Vacio",shape=record]
+1267[label="Espacio Vacio",shape=record]
+1297[label="Espacio Vacio",shape=record]
+1327[label="Espacio Vacio",shape=record]
+1088[label="Carnet: 201183728
+Nombre: Proyecto 1 de IPC1
+Descripcion: Entregar el Proyecto 1 de IPC1
+Materia: IPC1
+Fecha: 2021/11/09
+Hora: 8
+Estado: Realizado",shape=record]
+1118[label="Espacio Vacio",shape=record]
+1148[label="Carnet: 201661519
+Nombre: Corto de Sistemas de Bases de Datos 1
+Descripcion: Entregar el Corto de Sistemas de Bases de Datos 1
+Materia: Sistemas de Bases de Datos 1
+Fecha: 2021/11/09
+Hora: 10
+Estado: Incumplido",shape=record]
+1178[label="Espacio Vacio",shape=record]
+1208[label="Espacio Vacio",shape=record]
+1238[label="Espacio Vacio",shape=record]
+1268[label="Espacio Vacio",shape=record]
+1298[label="Carnet: 201704168
+Nombre: Ensayo de Quimica General 1
+Descripcion: Entregar el Ensayo de Quimica General 1
+Materia: Quimica General 1
+Fecha: 2021/11/09
+Hora: 15
+Estado: Pendiente",shape=record]
+1328[label="Espacio Vacio",shape=record]
+1089[label="Espacio Vacio",shape=record]
+1119[label="Espacio Vacio",shape=record]
+1149[label="Carnet: 201790782
+Nombre: Hoja de trabajo 1 de Matematica Intermedia 1
+Descripcion: Entregar la Hoja de trabajo 1 de Matematica Intermedia 1
+Materia: Matematica Intermedia 1
+Fecha: 2021/11/10
+Hora: 10
+Estado: Pendiente",shape=record]
+1179[label="Espacio Vacio",shape=record]
+1209[label="Espacio Vacio",shape=record]
+1239[label="Espacio Vacio",shape=record]
+1269[label="Espacio Vacio",shape=record]
+1299[label="Espacio Vacio",shape=record]
+1329[label="Espacio Vacio",shape=record]
+1090[label="Espacio Vacio",shape=record]
+1120[label="Espacio Vacio",shape=record]
+1150[label="Espacio Vacio",shape=record]
+1180[label="Espacio Vacio",shape=record]
+1210[label="Carnet: 201210811
+Nombre: Practica 3 de Sistemas de Bases de Datos 2
+Descripcion: Terminar la Practica 3 de Sistemas de Bases de Datos 2
+Materia: Sistemas de Bases de Datos 2
+Fecha: 2021/11/11
+Hora: 12
+Estado: Pendiente",shape=record]
+1240[label="Espacio Vacio",shape=record]
+1270[label="Carnet: 201068965
+Nombre: Tarea 1 de Matematica Computo 1
+Descripcion: Entregar la Tarea 1 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/11/11
+Hora: 14
+Estado: Pendiente",shape=record]
+1300[label="Carnet: 201309890
+Nombre: Estudiar para el examen
+Descripcion: Leer las presentaciones de la 1 a la 5
+Materia: Investigacion de operaciones
+Fecha: 2021/11/11
+Hora: 15
+Estado: Incumplido",shape=record]
+1330[label="Espacio Vacio",shape=record]
+1091[label="Carnet: 201210811
+Nombre: Ensayo de Practica Inicial
+Descripcion: Hacer el Ensayo de Practica Inicial
+Materia: Practica Inicial
+Fecha: 2021/11/12
+Hora: 8
+Estado: Realizado",shape=record]
+1121[label="Espacio Vacio",shape=record]
+1151[label="Espacio Vacio",shape=record]
+1181[label="Espacio Vacio",shape=record]
+1211[label="Espacio Vacio",shape=record]
+1241[label="Espacio Vacio",shape=record]
+1271[label="Espacio Vacio",shape=record]
+1301[label="Espacio Vacio",shape=record]
+1331[label="Espacio Vacio",shape=record]
+1092[label="Carnet: 201309890
+Nombre: Hoja de trabajo 2 de Matematica Computo 1
+Descripcion: Entregar la Hoja de trabajo 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/11/13
+Hora: 8
+Estado: Incumplido",shape=record]
+1122[label="Espacio Vacio",shape=record]
+1152[label="Espacio Vacio",shape=record]
+1182[label="Espacio Vacio",shape=record]
+1212[label="Espacio Vacio",shape=record]
+1242[label="Espacio Vacio",shape=record]
+1272[label="Espacio Vacio",shape=record]
+1302[label="Espacio Vacio",shape=record]
+1332[label="Espacio Vacio",shape=record]
+1093[label="Espacio Vacio",shape=record]
+1123[label="Espacio Vacio",shape=record]
+1153[label="Espacio Vacio",shape=record]
+1183[label="Carnet: 201402462
+Nombre: Proyecto 1 de Fisica 2
+Descripcion: Empezar el Proyecto 1 de Fisica 2
+Materia: Fisica 2
+Fecha: 2021/11/14
+Hora: 11
+Estado: Incumplido",shape=record]
+1213[label="Espacio Vacio",shape=record]
+1243[label="Espacio Vacio",shape=record]
+1273[label="Espacio Vacio",shape=record]
+1303[label="Espacio Vacio",shape=record]
+1333[label="Espacio Vacio",shape=record]
+1094[label="Espacio Vacio",shape=record]
+1124[label="Espacio Vacio",shape=record]
+1154[label="Espacio Vacio",shape=record]
+1184[label="Espacio Vacio",shape=record]
+1214[label="Espacio Vacio",shape=record]
+1244[label="Carnet: 201157605
+Nombre: Tarea 2 de Quimica General 1
+Descripcion: Empezar la Tarea 2 de Quimica General 1
+Materia: Quimica General 1
+Fecha: 2021/11/15
+Hora: 13
+Estado: Pendiente",shape=record]
+1274[label="Espacio Vacio",shape=record]
+1304[label="Espacio Vacio",shape=record]
+1334[label="Espacio Vacio",shape=record]
+1095[label="Espacio Vacio",shape=record]
+1125[label="Carnet: 201667272
+Nombre: Proyecto 1 de Practica Intermedia
+Descripcion: Hacer el Proyecto 1 de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/11/16
+Hora: 9
+Estado: Realizado",shape=record]
+1155[label="Carnet: 201210811
+Nombre: Practica 3 de Sistemas de Bases de Datos 2
+Descripcion: Terminar la Practica 3 de Sistemas de Bases de Datos 2
+Materia: Sistemas de Bases de Datos 2
+Fecha: 2021/11/16
+Hora: 10
+Estado: Pendiente",shape=record]
+1185[label="Espacio Vacio",shape=record]
+1215[label="Espacio Vacio",shape=record]
+1245[label="Carnet: 201119966
+Nombre: Hoja de trabajo 2 de Matematica Intermedia 2
+Descripcion: Empezar la Hoja de trabajo 2 de Matematica Intermedia 2
+Materia: Matematica Intermedia 2
+Fecha: 2021/11/16
+Hora: 13
+Estado: Pendiente",shape=record]
+1275[label="Espacio Vacio",shape=record]
+1305[label="Espacio Vacio",shape=record]
+1335[label="Espacio Vacio",shape=record]
+1096[label="Espacio Vacio",shape=record]
+1126[label="Espacio Vacio",shape=record]
+1156[label="Espacio Vacio",shape=record]
+1186[label="Espacio Vacio",shape=record]
+1216[label="Espacio Vacio",shape=record]
+1246[label="Espacio Vacio",shape=record]
+1276[label="Espacio Vacio",shape=record]
+1306[label="Espacio Vacio",shape=record]
+1336[label="Espacio Vacio",shape=record]
+1097[label="Espacio Vacio",shape=record]
+1127[label="Espacio Vacio",shape=record]
+1157[label="Carnet: 201428558
+Nombre: Hoja de trabajo 1 de Matematica Intermedia 1
+Descripcion: Entregar la Hoja de trabajo 1 de Matematica Intermedia 1
+Materia: Matematica Intermedia 1
+Fecha: 2021/11/18
+Hora: 10
+Estado: Realizado",shape=record]
+1187[label="Espacio Vacio",shape=record]
+1217[label="Espacio Vacio",shape=record]
+1247[label="Espacio Vacio",shape=record]
+1277[label="Espacio Vacio",shape=record]
+1307[label="Espacio Vacio",shape=record]
+1337[label="Espacio Vacio",shape=record]
+1098[label="Espacio Vacio",shape=record]
+1128[label="Espacio Vacio",shape=record]
+1158[label="Espacio Vacio",shape=record]
+1188[label="Espacio Vacio",shape=record]
+1218[label="Espacio Vacio",shape=record]
+1248[label="Espacio Vacio",shape=record]
+1278[label="Espacio Vacio",shape=record]
+1308[label="Carnet: 201232485
+Nombre: Tarea 1 idioma
+Descripcion: Tarea 1 de indioma 4
+Materia: Idioma Tecnico 1
+Fecha: 2021/11/19
+Hora: 15
+Estado: Incumplido",shape=record]
+1338[label="Espacio Vacio",shape=record]
+1099[label="Espacio Vacio",shape=record]
+1129[label="Espacio Vacio",shape=record]
+1159[label="Carnet: 201790782
+Nombre: Hoja de trabajo 3 de Fisica 3
+Descripcion: Terminar la Hoja de trabajo 3 de Fisica 3
+Materia: Fisica 3
+Fecha: 2021/11/20
+Hora: 10
+Estado: Incumplido",shape=record]
+1189[label="Espacio Vacio",shape=record]
+1219[label="Espacio Vacio",shape=record]
+1249[label="Espacio Vacio",shape=record]
+1279[label="Carnet: 201068965
+Nombre: Tarea 3 de Sistemas Operativos 1
+Descripcion: Empezar la Tarea 3 de Sistemas Operativos 1
+Materia: Sistemas Operativos 1
+Fecha: 2021/11/20
+Hora: 14
+Estado: Realizado",shape=record]
+1309[label="Espacio Vacio",shape=record]
+1339[label="Carnet: 201350393
+Nombre: Proyecto 2 de Lenguajes Formales y de Programacion
+Descripcion: Hacer el Proyecto 2 de Lenguajes Formales y de Programacion
+Materia: Lenguajes Formales y de Programacion
+Fecha: 2021/11/20
+Hora: 16
+Estado: Pendiente",shape=record]
+1100[label="Carnet: 201933753
+Nombre: Practica 1 de Fisica 1
+Descripcion: Realizar la Practica 1 de Fisica 1
+Materia: Fisica 1
+Fecha: 2021/11/21
+Hora: 8
+Estado: Realizado",shape=record]
+1130[label="Espacio Vacio",shape=record]
+1160[label="Espacio Vacio",shape=record]
+1190[label="Espacio Vacio",shape=record]
+1220[label="Carnet: 201389879
+Nombre: Hoja de trabajo 3 de Fisica 3
+Descripcion: Terminar la Hoja de trabajo 3 de Fisica 3
+Materia: Fisica 3
+Fecha: 2021/11/21
+Hora: 12
+Estado: Incumplido",shape=record]
+1250[label="Espacio Vacio",shape=record]
+1280[label="Espacio Vacio",shape=record]
+1310[label="Espacio Vacio",shape=record]
+1340[label="Espacio Vacio",shape=record]
+1101[label="Espacio Vacio",shape=record]
+1131[label="Espacio Vacio",shape=record]
+1161[label="Carnet: 201461415
+Nombre: Proyecto 1 de Fisica 2
+Descripcion: Empezar el Proyecto 1 de Fisica 2
+Materia: Fisica 2
+Fecha: 2021/11/22
+Hora: 10
+Estado: Incumplido",shape=record]
+1191[label="Espacio Vacio",shape=record]
+1221[label="Espacio Vacio",shape=record]
+1251[label="Espacio Vacio",shape=record]
+1281[label="Espacio Vacio",shape=record]
+1311[label="Espacio Vacio",shape=record]
+1341[label="Carnet: 201327079
+Nombre: Tarea 2 de Matematica Computo 1
+Descripcion: Terminar la Tarea 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/11/22
+Hora: 16
+Estado: Incumplido",shape=record]
+1102[label="Espacio Vacio",shape=record]
+1132[label="Espacio Vacio",shape=record]
+1162[label="Espacio Vacio",shape=record]
+1192[label="Carnet: 201389879
+Nombre: Investigacion de Practica Intermedia
+Descripcion: Hacer la Investigacion de Practica Intermedia
+Materia: Practica Intermedia
+Fecha: 2021/11/23
+Hora: 11
+Estado: Incumplido",shape=record]
+1222[label="Espacio Vacio",shape=record]
+1252[label="Espacio Vacio",shape=record]
+1282[label="Espacio Vacio",shape=record]
+1312[label="Carnet: 201661519
+Nombre: Tarea 3 de Organizacion de Lenguajes y Compiladores 2
+Descripcion: Empezar la Tarea 3 de Organizacion de Lenguajes y Compiladores 2
+Materia: Organizacion de Lenguajes y Compiladores 2
+Fecha: 2021/11/23
+Hora: 15
+Estado: Incumplido",shape=record]
+1342[label="Carnet: 201210811
+Nombre: Hoja de trabajo 1 de Matematica Intermedia 1
+Descripcion: Entregar la Hoja de trabajo 1 de Matematica Intermedia 1
+Materia: Matematica Intermedia 1
+Fecha: 2021/11/23
+Hora: 16
+Estado: Incumplido",shape=record]
+1103[label="Espacio Vacio",shape=record]
+1133[label="Espacio Vacio",shape=record]
+1163[label="Espacio Vacio",shape=record]
+1193[label="Espacio Vacio",shape=record]
+1223[label="Espacio Vacio",shape=record]
+1253[label="Espacio Vacio",shape=record]
+1283[label="Espacio Vacio",shape=record]
+1313[label="Espacio Vacio",shape=record]
+1343[label="Carnet: 201043689
+Nombre: Ensayo de Sistemas Operativos 1
+Descripcion: Terminar el Ensayo de Sistemas Operativos 1
+Materia: Sistemas Operativos 1
+Fecha: 2021/11/24
+Hora: 16
+Estado: Realizado",shape=record]
+1104[label="Espacio Vacio",shape=record]
+1134[label="Carnet: 201327675
+Nombre: Practica 1 de Fisica 1
+Descripcion: Realizar la Practica 1 de Fisica 1
+Materia: Fisica 1
+Fecha: 2021/11/25
+Hora: 9
+Estado: Realizado",shape=record]
+1164[label="Espacio Vacio",shape=record]
+1194[label="Espacio Vacio",shape=record]
+1224[label="Espacio Vacio",shape=record]
+1254[label="Espacio Vacio",shape=record]
+1284[label="Carnet: 201359507
+Nombre: Tarea 1 de Social Humanistica 1
+Descripcion: Empezar la Tarea 1 de Social Humanistica 1
+Materia: Social Humanistica 1
+Fecha: 2021/11/25
+Hora: 14
+Estado: Incumplido",shape=record]
+1314[label="Espacio Vacio",shape=record]
+1344[label="Carnet: 201489697
+Nombre: Tarea 2 de Matematica Computo 1
+Descripcion: Terminar la Tarea 2 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/11/25
+Hora: 16
+Estado: Pendiente",shape=record]
+1105[label="Carnet: 201582352
+Nombre: Proyecto 2 de Matematica Basica 2
+Descripcion: Terminar el Proyecto 2 de Matematica Basica 2
+Materia: Matematica Basica 2
+Fecha: 2021/11/26
+Hora: 8
+Estado: Incumplido",shape=record]
+1135[label="Espacio Vacio",shape=record]
+1165[label="Espacio Vacio",shape=record]
+1195[label="Carnet: 201173540
+Nombre: Ensayo de Practica Inicial
+Descripcion: Hacer el Ensayo de Practica Inicial
+Materia: Practica Inicial
+Fecha: 2021/11/26
+Hora: 11
+Estado: Realizado",shape=record]
+1225[label="Espacio Vacio",shape=record]
+1255[label="Espacio Vacio",shape=record]
+1285[label="Espacio Vacio",shape=record]
+1315[label="Carnet: 201125580
+Nombre: Tarea 2 de Quimica General 1
+Descripcion: Empezar la Tarea 2 de Quimica General 1
+Materia: Quimica General 1
+Fecha: 2021/11/26
+Hora: 15
+Estado: Pendiente",shape=record]
+1345[label="Espacio Vacio",shape=record]
+1106[label="Espacio Vacio",shape=record]
+1136[label="Espacio Vacio",shape=record]
+1166[label="Espacio Vacio",shape=record]
+1196[label="Espacio Vacio",shape=record]
+1226[label="Espacio Vacio",shape=record]
+1256[label="Espacio Vacio",shape=record]
+1286[label="Espacio Vacio",shape=record]
+1316[label="Espacio Vacio",shape=record]
+1346[label="Espacio Vacio",shape=record]
+1107[label="Espacio Vacio",shape=record]
+1137[label="Espacio Vacio",shape=record]
+1167[label="Carnet: 201173540
+Nombre: Proyecto 2 de Matematica Intermedia 3
+Descripcion: Realizar el Proyecto 2 de Matematica Intermedia 3
+Materia: Matematica Intermedia 3
+Fecha: 2021/11/28
+Hora: 10
+Estado: Pendiente",shape=record]
+1197[label="Espacio Vacio",shape=record]
+1227[label="Espacio Vacio",shape=record]
+1257[label="Espacio Vacio",shape=record]
+1287[label="Carnet: 201954202
+Nombre: Hoja de trabajo 1 de Sistemas Operativos 2
+Descripcion: Hacer la Hoja de trabajo 1 de Sistemas Operativos 2
+Materia: Sistemas Operativos 2
+Fecha: 2021/11/28
+Hora: 14
+Estado: Incumplido",shape=record]
+1317[label="Carnet: 201790782
+Nombre: Hoja de trabajo 3 de Fisica 3
+Descripcion: Terminar la Hoja de trabajo 3 de Fisica 3
+Materia: Fisica 3
+Fecha: 2021/11/28
+Hora: 15
+Estado: Realizado",shape=record]
+1347[label="Espacio Vacio",shape=record]
+1108[label="Espacio Vacio",shape=record]
+1138[label="Espacio Vacio",shape=record]
+1168[label="Espacio Vacio",shape=record]
+1198[label="Espacio Vacio",shape=record]
+1228[label="Espacio Vacio",shape=record]
+1258[label="Espacio Vacio",shape=record]
+1288[label="Espacio Vacio",shape=record]
+1318[label="Espacio Vacio",shape=record]
+1348[label="Carnet: 201594265
+Nombre: Tarea 1 de Matematica Computo 1
+Descripcion: Entregar la Tarea 1 de Matematica Computo 1
+Materia: Matematica Computo 1
+Fecha: 2021/11/29
+Hora: 16
+Estado: Pendiente",shape=record]
+1109[label="Espacio Vacio",shape=record]
+1139[label="Espacio Vacio",shape=record]
+1169[label="Carnet: 201461415
+Nombre: Practica 3 de Sistemas de Bases de Datos 2
+Descripcion: Terminar la Practica 3 de Sistemas de Bases de Datos 2
+Materia: Sistemas de Bases de Datos 2
+Fecha: 2021/11/30
+Hora: 10
+Estado: Pendiente",shape=record]
+1199[label="Espacio Vacio",shape=record]
+1229[label="Carnet: 201761573
+Nombre: Tarea 3 de Organizacion de Lenguajes y Compiladores 2
+Descripcion: Empezar la Tarea 3 de Organizacion de Lenguajes y Compiladores 2
+Materia: Organizacion de Lenguajes y Compiladores 2
+Fecha: 2021/11/30
+Hora: 12
+Estado: Realizado",shape=record]
+1259[label="Espacio Vacio",shape=record]
+1289[label="Espacio Vacio",shape=record]
+1319[label="Espacio Vacio",shape=record]
+1349[label="Espacio Vacio",shape=record]
+0->30
+30->0
+30->60
+60->30
+60->90
+90->60
+90->120
+120->90
+120->150
+150->120
+150->180
+180->150
+180->210
+210->180
+210->240
+240->210
+240->1
+1->240
+1->31
+31->1
+31->61
+61->31
+61->91
+91->61
+91->121
+121->91
+121->151
+151->121
+151->181
+181->151
+181->211
+211->181
+211->241
+241->211
+241->2
+2->241
+2->32
+32->2
+32->62
+62->32
+62->92
+92->62
+92->122
+122->92
+122->152
+152->122
+152->182
+182->152
+182->212
+212->182
+212->242
+242->212
+242->3
+3->242
+3->33
+33->3
+33->63
+63->33
+63->93
+93->63
+93->123
+123->93
+123->153
+153->123
+153->183
+183->153
+183->213
+213->183
+213->243
+243->213
+243->4
+4->243
+4->34
+34->4
+34->64
+64->34
+64->94
+94->64
+94->124
+124->94
+124->154
+154->124
+154->184
+184->154
+184->214
+214->184
+214->244
+244->214
+244->5
+5->244
+5->35
+35->5
+35->65
+65->35
+65->95
+95->65
+95->125
+125->95
+125->155
+155->125
+155->185
+185->155
+185->215
+215->185
+215->245
+245->215
+245->6
+6->245
+6->36
+36->6
+36->66
+66->36
+66->96
+96->66
+96->126
+126->96
+126->156
+156->126
+156->186
+186->156
+186->216
+216->186
+216->246
+246->216
+246->7
+7->246
+7->37
+37->7
+37->67
+67->37
+67->97
+97->67
+97->127
+127->97
+127->157
+157->127
+157->187
+187->157
+187->217
+217->187
+217->247
+247->217
+247->8
+8->247
+8->38
+38->8
+38->68
+68->38
+68->98
+98->68
+98->128
+128->98
+128->158
+158->128
+158->188
+188->158
+188->218
+218->188
+218->248
+248->218
+248->9
+9->248
+9->39
+39->9
+39->69
+69->39
+69->99
+99->69
+99->129
+129->99
+129->159
+159->129
+159->189
+189->159
+189->219
+219->189
+219->249
+249->219
+249->10
+10->249
+10->40
+40->10
+40->70
+70->40
+70->100
+100->70
+100->130
+130->100
+130->160
+160->130
+160->190
+190->160
+190->220
+220->190
+220->250
+250->220
+250->11
+11->250
+11->41
+41->11
+41->71
+71->41
+71->101
+101->71
+101->131
+131->101
+131->161
+161->131
+161->191
+191->161
+191->221
+221->191
+221->251
+251->221
+251->12
+12->251
+12->42
+42->12
+42->72
+72->42
+72->102
+102->72
+102->132
+132->102
+132->162
+162->132
+162->192
+192->162
+192->222
+222->192
+222->252
+252->222
+252->13
+13->252
+13->43
+43->13
+43->73
+73->43
+73->103
+103->73
+103->133
+133->103
+133->163
+163->133
+163->193
+193->163
+193->223
+223->193
+223->253
+253->223
+253->14
+14->253
+14->44
+44->14
+44->74
+74->44
+74->104
+104->74
+104->134
+134->104
+134->164
+164->134
+164->194
+194->164
+194->224
+224->194
+224->254
+254->224
+254->15
+15->254
+15->45
+45->15
+45->75
+75->45
+75->105
+105->75
+105->135
+135->105
+135->165
+165->135
+165->195
+195->165
+195->225
+225->195
+225->255
+255->225
+255->16
+16->255
+16->46
+46->16
+46->76
+76->46
+76->106
+106->76
+106->136
+136->106
+136->166
+166->136
+166->196
+196->166
+196->226
+226->196
+226->256
+256->226
+256->17
+17->256
+17->47
+47->17
+47->77
+77->47
+77->107
+107->77
+107->137
+137->107
+137->167
+167->137
+167->197
+197->167
+197->227
+227->197
+227->257
+257->227
+257->18
+18->257
+18->48
+48->18
+48->78
+78->48
+78->108
+108->78
+108->138
+138->108
+138->168
+168->138
+168->198
+198->168
+198->228
+228->198
+228->258
+258->228
+258->19
+19->258
+19->49
+49->19
+49->79
+79->49
+79->109
+109->79
+109->139
+139->109
+139->169
+169->139
+169->199
+199->169
+199->229
+229->199
+229->259
+259->229
+259->20
+20->259
+20->50
+50->20
+50->80
+80->50
+80->110
+110->80
+110->140
+140->110
+140->170
+170->140
+170->200
+200->170
+200->230
+230->200
+230->260
+260->230
+260->21
+21->260
+21->51
+51->21
+51->81
+81->51
+81->111
+111->81
+111->141
+141->111
+141->171
+171->141
+171->201
+201->171
+201->231
+231->201
+231->261
+261->231
+261->22
+22->261
+22->52
+52->22
+52->82
+82->52
+82->112
+112->82
+112->142
+142->112
+142->172
+172->142
+172->202
+202->172
+202->232
+232->202
+232->262
+262->232
+262->23
+23->262
+23->53
+53->23
+53->83
+83->53
+83->113
+113->83
+113->143
+143->113
+143->173
+173->143
+173->203
+203->173
+203->233
+233->203
+233->263
+263->233
+263->24
+24->263
+24->54
+54->24
+54->84
+84->54
+84->114
+114->84
+114->144
+144->114
+144->174
+174->144
+174->204
+204->174
+204->234
+234->204
+234->264
+264->234
+264->25
+25->264
+25->55
+55->25
+55->85
+85->55
+85->115
+115->85
+115->145
+145->115
+145->175
+175->145
+175->205
+205->175
+205->235
+235->205
+235->265
+265->235
+265->26
+26->265
+26->56
+56->26
+56->86
+86->56
+86->116
+116->86
+116->146
+146->116
+146->176
+176->146
+176->206
+206->176
+206->236
+236->206
+236->266
+266->236
+266->27
+27->266
+27->57
+57->27
+57->87
+87->57
+87->117
+117->87
+117->147
+147->117
+147->177
+177->147
+177->207
+207->177
+207->237
+237->207
+237->267
+267->237
+267->28
+28->267
+28->58
+58->28
+58->88
+88->58
+88->118
+118->88
+118->148
+148->118
+148->178
+178->148
+178->208
+208->178
+208->238
+238->208
+238->268
+268->238
+268->29
+29->268
+29->59
+59->29
+59->89
+89->59
+89->119
+119->89
+119->149
+149->119
+149->179
+179->149
+179->209
+209->179
+209->239
+239->209
+239->269
+269->239
+269->270
+270->269
+270->300
+300->270
+300->330
+330->300
+330->360
+360->330
+360->390
+390->360
+390->420
+420->390
+420->450
+450->420
+450->480
+480->450
+480->510
+510->480
+510->271
+271->510
+271->301
+301->271
+301->331
+331->301
+331->361
+361->331
+361->391
+391->361
+391->421
+421->391
+421->451
+451->421
+451->481
+481->451
+481->511
+511->481
+511->272
+272->511
+272->302
+302->272
+302->332
+332->302
+332->362
+362->332
+362->392
+392->362
+392->422
+422->392
+422->452
+452->422
+452->482
+482->452
+482->512
+512->482
+512->273
+273->512
+273->303
+303->273
+303->333
+333->303
+333->363
+363->333
+363->393
+393->363
+393->423
+423->393
+423->453
+453->423
+453->483
+483->453
+483->513
+513->483
+513->274
+274->513
+274->304
+304->274
+304->334
+334->304
+334->364
+364->334
+364->394
+394->364
+394->424
+424->394
+424->454
+454->424
+454->484
+484->454
+484->514
+514->484
+514->275
+275->514
+275->305
+305->275
+305->335
+335->305
+335->365
+365->335
+365->395
+395->365
+395->425
+425->395
+425->455
+455->425
+455->485
+485->455
+485->515
+515->485
+515->276
+276->515
+276->306
+306->276
+306->336
+336->306
+336->366
+366->336
+366->396
+396->366
+396->426
+426->396
+426->456
+456->426
+456->486
+486->456
+486->516
+516->486
+516->277
+277->516
+277->307
+307->277
+307->337
+337->307
+337->367
+367->337
+367->397
+397->367
+397->427
+427->397
+427->457
+457->427
+457->487
+487->457
+487->517
+517->487
+517->278
+278->517
+278->308
+308->278
+308->338
+338->308
+338->368
+368->338
+368->398
+398->368
+398->428
+428->398
+428->458
+458->428
+458->488
+488->458
+488->518
+518->488
+518->279
+279->518
+279->309
+309->279
+309->339
+339->309
+339->369
+369->339
+369->399
+399->369
+399->429
+429->399
+429->459
+459->429
+459->489
+489->459
+489->519
+519->489
+519->280
+280->519
+280->310
+310->280
+310->340
+340->310
+340->370
+370->340
+370->400
+400->370
+400->430
+430->400
+430->460
+460->430
+460->490
+490->460
+490->520
+520->490
+520->281
+281->520
+281->311
+311->281
+311->341
+341->311
+341->371
+371->341
+371->401
+401->371
+401->431
+431->401
+431->461
+461->431
+461->491
+491->461
+491->521
+521->491
+521->282
+282->521
+282->312
+312->282
+312->342
+342->312
+342->372
+372->342
+372->402
+402->372
+402->432
+432->402
+432->462
+462->432
+462->492
+492->462
+492->522
+522->492
+522->283
+283->522
+283->313
+313->283
+313->343
+343->313
+343->373
+373->343
+373->403
+403->373
+403->433
+433->403
+433->463
+463->433
+463->493
+493->463
+493->523
+523->493
+523->284
+284->523
+284->314
+314->284
+314->344
+344->314
+344->374
+374->344
+374->404
+404->374
+404->434
+434->404
+434->464
+464->434
+464->494
+494->464
+494->524
+524->494
+524->285
+285->524
+285->315
+315->285
+315->345
+345->315
+345->375
+375->345
+375->405
+405->375
+405->435
+435->405
+435->465
+465->435
+465->495
+495->465
+495->525
+525->495
+525->286
+286->525
+286->316
+316->286
+316->346
+346->316
+346->376
+376->346
+376->406
+406->376
+406->436
+436->406
+436->466
+466->436
+466->496
+496->466
+496->526
+526->496
+526->287
+287->526
+287->317
+317->287
+317->347
+347->317
+347->377
+377->347
+377->407
+407->377
+407->437
+437->407
+437->467
+467->437
+467->497
+497->467
+497->527
+527->497
+527->288
+288->527
+288->318
+318->288
+318->348
+348->318
+348->378
+378->348
+378->408
+408->378
+408->438
+438->408
+438->468
+468->438
+468->498
+498->468
+498->528
+528->498
+528->289
+289->528
+289->319
+319->289
+319->349
+349->319
+349->379
+379->349
+379->409
+409->379
+409->439
+439->409
+439->469
+469->439
+469->499
+499->469
+499->529
+529->499
+529->290
+290->529
+290->320
+320->290
+320->350
+350->320
+350->380
+380->350
+380->410
+410->380
+410->440
+440->410
+440->470
+470->440
+470->500
+500->470
+500->530
+530->500
+530->291
+291->530
+291->321
+321->291
+321->351
+351->321
+351->381
+381->351
+381->411
+411->381
+411->441
+441->411
+441->471
+471->441
+471->501
+501->471
+501->531
+531->501
+531->292
+292->531
+292->322
+322->292
+322->352
+352->322
+352->382
+382->352
+382->412
+412->382
+412->442
+442->412
+442->472
+472->442
+472->502
+502->472
+502->532
+532->502
+532->293
+293->532
+293->323
+323->293
+323->353
+353->323
+353->383
+383->353
+383->413
+413->383
+413->443
+443->413
+443->473
+473->443
+473->503
+503->473
+503->533
+533->503
+533->294
+294->533
+294->324
+324->294
+324->354
+354->324
+354->384
+384->354
+384->414
+414->384
+414->444
+444->414
+444->474
+474->444
+474->504
+504->474
+504->534
+534->504
+534->295
+295->534
+295->325
+325->295
+325->355
+355->325
+355->385
+385->355
+385->415
+415->385
+415->445
+445->415
+445->475
+475->445
+475->505
+505->475
+505->535
+535->505
+535->296
+296->535
+296->326
+326->296
+326->356
+356->326
+356->386
+386->356
+386->416
+416->386
+416->446
+446->416
+446->476
+476->446
+476->506
+506->476
+506->536
+536->506
+536->297
+297->536
+297->327
+327->297
+327->357
+357->327
+357->387
+387->357
+387->417
+417->387
+417->447
+447->417
+447->477
+477->447
+477->507
+507->477
+507->537
+537->507
+537->298
+298->537
+298->328
+328->298
+328->358
+358->328
+358->388
+388->358
+388->418
+418->388
+418->448
+448->418
+448->478
+478->448
+478->508
+508->478
+508->538
+538->508
+538->299
+299->538
+299->329
+329->299
+329->359
+359->329
+359->389
+389->359
+389->419
+419->389
+419->449
+449->419
+449->479
+479->449
+479->509
+509->479
+509->539
+539->509
+539->540
+540->539
+540->570
+570->540
+570->600
+600->570
+600->630
+630->600
+630->660
+660->630
+660->690
+690->660
+690->720
+720->690
+720->750
+750->720
+750->780
+780->750
+780->541
+541->780
+541->571
+571->541
+571->601
+601->571
+601->631
+631->601
+631->661
+661->631
+661->691
+691->661
+691->721
+721->691
+721->751
+751->721
+751->781
+781->751
+781->542
+542->781
+542->572
+572->542
+572->602
+602->572
+602->632
+632->602
+632->662
+662->632
+662->692
+692->662
+692->722
+722->692
+722->752
+752->722
+752->782
+782->752
+782->543
+543->782
+543->573
+573->543
+573->603
+603->573
+603->633
+633->603
+633->663
+663->633
+663->693
+693->663
+693->723
+723->693
+723->753
+753->723
+753->783
+783->753
+783->544
+544->783
+544->574
+574->544
+574->604
+604->574
+604->634
+634->604
+634->664
+664->634
+664->694
+694->664
+694->724
+724->694
+724->754
+754->724
+754->784
+784->754
+784->545
+545->784
+545->575
+575->545
+575->605
+605->575
+605->635
+635->605
+635->665
+665->635
+665->695
+695->665
+695->725
+725->695
+725->755
+755->725
+755->785
+785->755
+785->546
+546->785
+546->576
+576->546
+576->606
+606->576
+606->636
+636->606
+636->666
+666->636
+666->696
+696->666
+696->726
+726->696
+726->756
+756->726
+756->786
+786->756
+786->547
+547->786
+547->577
+577->547
+577->607
+607->577
+607->637
+637->607
+637->667
+667->637
+667->697
+697->667
+697->727
+727->697
+727->757
+757->727
+757->787
+787->757
+787->548
+548->787
+548->578
+578->548
+578->608
+608->578
+608->638
+638->608
+638->668
+668->638
+668->698
+698->668
+698->728
+728->698
+728->758
+758->728
+758->788
+788->758
+788->549
+549->788
+549->579
+579->549
+579->609
+609->579
+609->639
+639->609
+639->669
+669->639
+669->699
+699->669
+699->729
+729->699
+729->759
+759->729
+759->789
+789->759
+789->550
+550->789
+550->580
+580->550
+580->610
+610->580
+610->640
+640->610
+640->670
+670->640
+670->700
+700->670
+700->730
+730->700
+730->760
+760->730
+760->790
+790->760
+790->551
+551->790
+551->581
+581->551
+581->611
+611->581
+611->641
+641->611
+641->671
+671->641
+671->701
+701->671
+701->731
+731->701
+731->761
+761->731
+761->791
+791->761
+791->552
+552->791
+552->582
+582->552
+582->612
+612->582
+612->642
+642->612
+642->672
+672->642
+672->702
+702->672
+702->732
+732->702
+732->762
+762->732
+762->792
+792->762
+792->553
+553->792
+553->583
+583->553
+583->613
+613->583
+613->643
+643->613
+643->673
+673->643
+673->703
+703->673
+703->733
+733->703
+733->763
+763->733
+763->793
+793->763
+793->554
+554->793
+554->584
+584->554
+584->614
+614->584
+614->644
+644->614
+644->674
+674->644
+674->704
+704->674
+704->734
+734->704
+734->764
+764->734
+764->794
+794->764
+794->555
+555->794
+555->585
+585->555
+585->615
+615->585
+615->645
+645->615
+645->675
+675->645
+675->705
+705->675
+705->735
+735->705
+735->765
+765->735
+765->795
+795->765
+795->556
+556->795
+556->586
+586->556
+586->616
+616->586
+616->646
+646->616
+646->676
+676->646
+676->706
+706->676
+706->736
+736->706
+736->766
+766->736
+766->796
+796->766
+796->557
+557->796
+557->587
+587->557
+587->617
+617->587
+617->647
+647->617
+647->677
+677->647
+677->707
+707->677
+707->737
+737->707
+737->767
+767->737
+767->797
+797->767
+797->558
+558->797
+558->588
+588->558
+588->618
+618->588
+618->648
+648->618
+648->678
+678->648
+678->708
+708->678
+708->738
+738->708
+738->768
+768->738
+768->798
+798->768
+798->559
+559->798
+559->589
+589->559
+589->619
+619->589
+619->649
+649->619
+649->679
+679->649
+679->709
+709->679
+709->739
+739->709
+739->769
+769->739
+769->799
+799->769
+799->560
+560->799
+560->590
+590->560
+590->620
+620->590
+620->650
+650->620
+650->680
+680->650
+680->710
+710->680
+710->740
+740->710
+740->770
+770->740
+770->800
+800->770
+800->561
+561->800
+561->591
+591->561
+591->621
+621->591
+621->651
+651->621
+651->681
+681->651
+681->711
+711->681
+711->741
+741->711
+741->771
+771->741
+771->801
+801->771
+801->562
+562->801
+562->592
+592->562
+592->622
+622->592
+622->652
+652->622
+652->682
+682->652
+682->712
+712->682
+712->742
+742->712
+742->772
+772->742
+772->802
+802->772
+802->563
+563->802
+563->593
+593->563
+593->623
+623->593
+623->653
+653->623
+653->683
+683->653
+683->713
+713->683
+713->743
+743->713
+743->773
+773->743
+773->803
+803->773
+803->564
+564->803
+564->594
+594->564
+594->624
+624->594
+624->654
+654->624
+654->684
+684->654
+684->714
+714->684
+714->744
+744->714
+744->774
+774->744
+774->804
+804->774
+804->565
+565->804
+565->595
+595->565
+595->625
+625->595
+625->655
+655->625
+655->685
+685->655
+685->715
+715->685
+715->745
+745->715
+745->775
+775->745
+775->805
+805->775
+805->566
+566->805
+566->596
+596->566
+596->626
+626->596
+626->656
+656->626
+656->686
+686->656
+686->716
+716->686
+716->746
+746->716
+746->776
+776->746
+776->806
+806->776
+806->567
+567->806
+567->597
+597->567
+597->627
+627->597
+627->657
+657->627
+657->687
+687->657
+687->717
+717->687
+717->747
+747->717
+747->777
+777->747
+777->807
+807->777
+807->568
+568->807
+568->598
+598->568
+598->628
+628->598
+628->658
+658->628
+658->688
+688->658
+688->718
+718->688
+718->748
+748->718
+748->778
+778->748
+778->808
+808->778
+808->569
+569->808
+569->599
+599->569
+599->629
+629->599
+629->659
+659->629
+659->689
+689->659
+689->719
+719->689
+719->749
+749->719
+749->779
+779->749
+779->809
+809->779
+809->810
+810->809
+810->840
+840->810
+840->870
+870->840
+870->900
+900->870
+900->930
+930->900
+930->960
+960->930
+960->990
+990->960
+990->1020
+1020->990
+1020->1050
+1050->1020
+1050->811
+811->1050
+811->841
+841->811
+841->871
+871->841
+871->901
+901->871
+901->931
+931->901
+931->961
+961->931
+961->991
+991->961
+991->1021
+1021->991
+1021->1051
+1051->1021
+1051->812
+812->1051
+812->842
+842->812
+842->872
+872->842
+872->902
+902->872
+902->932
+932->902
+932->962
+962->932
+962->992
+992->962
+992->1022
+1022->992
+1022->1052
+1052->1022
+1052->813
+813->1052
+813->843
+843->813
+843->873
+873->843
+873->903
+903->873
+903->933
+933->903
+933->963
+963->933
+963->993
+993->963
+993->1023
+1023->993
+1023->1053
+1053->1023
+1053->814
+814->1053
+814->844
+844->814
+844->874
+874->844
+874->904
+904->874
+904->934
+934->904
+934->964
+964->934
+964->994
+994->964
+994->1024
+1024->994
+1024->1054
+1054->1024
+1054->815
+815->1054
+815->845
+845->815
+845->875
+875->845
+875->905
+905->875
+905->935
+935->905
+935->965
+965->935
+965->995
+995->965
+995->1025
+1025->995
+1025->1055
+1055->1025
+1055->816
+816->1055
+816->846
+846->816
+846->876
+876->846
+876->906
+906->876
+906->936
+936->906
+936->966
+966->936
+966->996
+996->966
+996->1026
+1026->996
+1026->1056
+1056->1026
+1056->817
+817->1056
+817->847
+847->817
+847->877
+877->847
+877->907
+907->877
+907->937
+937->907
+937->967
+967->937
+967->997
+997->967
+997->1027
+1027->997
+1027->1057
+1057->1027
+1057->818
+818->1057
+818->848
+848->818
+848->878
+878->848
+878->908
+908->878
+908->938
+938->908
+938->968
+968->938
+968->998
+998->968
+998->1028
+1028->998
+1028->1058
+1058->1028
+1058->819
+819->1058
+819->849
+849->819
+849->879
+879->849
+879->909
+909->879
+909->939
+939->909
+939->969
+969->939
+969->999
+999->969
+999->1029
+1029->999
+1029->1059
+1059->1029
+1059->820
+820->1059
+820->850
+850->820
+850->880
+880->850
+880->910
+910->880
+910->940
+940->910
+940->970
+970->940
+970->1000
+1000->970
+1000->1030
+1030->1000
+1030->1060
+1060->1030
+1060->821
+821->1060
+821->851
+851->821
+851->881
+881->851
+881->911
+911->881
+911->941
+941->911
+941->971
+971->941
+971->1001
+1001->971
+1001->1031
+1031->1001
+1031->1061
+1061->1031
+1061->822
+822->1061
+822->852
+852->822
+852->882
+882->852
+882->912
+912->882
+912->942
+942->912
+942->972
+972->942
+972->1002
+1002->972
+1002->1032
+1032->1002
+1032->1062
+1062->1032
+1062->823
+823->1062
+823->853
+853->823
+853->883
+883->853
+883->913
+913->883
+913->943
+943->913
+943->973
+973->943
+973->1003
+1003->973
+1003->1033
+1033->1003
+1033->1063
+1063->1033
+1063->824
+824->1063
+824->854
+854->824
+854->884
+884->854
+884->914
+914->884
+914->944
+944->914
+944->974
+974->944
+974->1004
+1004->974
+1004->1034
+1034->1004
+1034->1064
+1064->1034
+1064->825
+825->1064
+825->855
+855->825
+855->885
+885->855
+885->915
+915->885
+915->945
+945->915
+945->975
+975->945
+975->1005
+1005->975
+1005->1035
+1035->1005
+1035->1065
+1065->1035
+1065->826
+826->1065
+826->856
+856->826
+856->886
+886->856
+886->916
+916->886
+916->946
+946->916
+946->976
+976->946
+976->1006
+1006->976
+1006->1036
+1036->1006
+1036->1066
+1066->1036
+1066->827
+827->1066
+827->857
+857->827
+857->887
+887->857
+887->917
+917->887
+917->947
+947->917
+947->977
+977->947
+977->1007
+1007->977
+1007->1037
+1037->1007
+1037->1067
+1067->1037
+1067->828
+828->1067
+828->858
+858->828
+858->888
+888->858
+888->918
+918->888
+918->948
+948->918
+948->978
+978->948
+978->1008
+1008->978
+1008->1038
+1038->1008
+1038->1068
+1068->1038
+1068->829
+829->1068
+829->859
+859->829
+859->889
+889->859
+889->919
+919->889
+919->949
+949->919
+949->979
+979->949
+979->1009
+1009->979
+1009->1039
+1039->1009
+1039->1069
+1069->1039
+1069->830
+830->1069
+830->860
+860->830
+860->890
+890->860
+890->920
+920->890
+920->950
+950->920
+950->980
+980->950
+980->1010
+1010->980
+1010->1040
+1040->1010
+1040->1070
+1070->1040
+1070->831
+831->1070
+831->861
+861->831
+861->891
+891->861
+891->921
+921->891
+921->951
+951->921
+951->981
+981->951
+981->1011
+1011->981
+1011->1041
+1041->1011
+1041->1071
+1071->1041
+1071->832
+832->1071
+832->862
+862->832
+862->892
+892->862
+892->922
+922->892
+922->952
+952->922
+952->982
+982->952
+982->1012
+1012->982
+1012->1042
+1042->1012
+1042->1072
+1072->1042
+1072->833
+833->1072
+833->863
+863->833
+863->893
+893->863
+893->923
+923->893
+923->953
+953->923
+953->983
+983->953
+983->1013
+1013->983
+1013->1043
+1043->1013
+1043->1073
+1073->1043
+1073->834
+834->1073
+834->864
+864->834
+864->894
+894->864
+894->924
+924->894
+924->954
+954->924
+954->984
+984->954
+984->1014
+1014->984
+1014->1044
+1044->1014
+1044->1074
+1074->1044
+1074->835
+835->1074
+835->865
+865->835
+865->895
+895->865
+895->925
+925->895
+925->955
+955->925
+955->985
+985->955
+985->1015
+1015->985
+1015->1045
+1045->1015
+1045->1075
+1075->1045
+1075->836
+836->1075
+836->866
+866->836
+866->896
+896->866
+896->926
+926->896
+926->956
+956->926
+956->986
+986->956
+986->1016
+1016->986
+1016->1046
+1046->1016
+1046->1076
+1076->1046
+1076->837
+837->1076
+837->867
+867->837
+867->897
+897->867
+897->927
+927->897
+927->957
+957->927
+957->987
+987->957
+987->1017
+1017->987
+1017->1047
+1047->1017
+1047->1077
+1077->1047
+1077->838
+838->1077
+838->868
+868->838
+868->898
+898->868
+898->928
+928->898
+928->958
+958->928
+958->988
+988->958
+988->1018
+1018->988
+1018->1048
+1048->1018
+1048->1078
+1078->1048
+1078->839
+839->1078
+839->869
+869->839
+869->899
+899->869
+899->929
+929->899
+929->959
+959->929
+959->989
+989->959
+989->1019
+1019->989
+1019->1049
+1049->1019
+1049->1079
+1079->1049
+1079->1080
+1080->1079
+1080->1110
+1110->1080
+1110->1140
+1140->1110
+1140->1170
+1170->1140
+1170->1200
+1200->1170
+1200->1230
+1230->1200
+1230->1260
+1260->1230
+1260->1290
+1290->1260
+1290->1320
+1320->1290
+1320->1081
+1081->1320
+1081->1111
+1111->1081
+1111->1141
+1141->1111
+1141->1171
+1171->1141
+1171->1201
+1201->1171
+1201->1231
+1231->1201
+1231->1261
+1261->1231
+1261->1291
+1291->1261
+1291->1321
+1321->1291
+1321->1082
+1082->1321
+1082->1112
+1112->1082
+1112->1142
+1142->1112
+1142->1172
+1172->1142
+1172->1202
+1202->1172
+1202->1232
+1232->1202
+1232->1262
+1262->1232
+1262->1292
+1292->1262
+1292->1322
+1322->1292
+1322->1083
+1083->1322
+1083->1113
+1113->1083
+1113->1143
+1143->1113
+1143->1173
+1173->1143
+1173->1203
+1203->1173
+1203->1233
+1233->1203
+1233->1263
+1263->1233
+1263->1293
+1293->1263
+1293->1323
+1323->1293
+1323->1084
+1084->1323
+1084->1114
+1114->1084
+1114->1144
+1144->1114
+1144->1174
+1174->1144
+1174->1204
+1204->1174
+1204->1234
+1234->1204
+1234->1264
+1264->1234
+1264->1294
+1294->1264
+1294->1324
+1324->1294
+1324->1085
+1085->1324
+1085->1115
+1115->1085
+1115->1145
+1145->1115
+1145->1175
+1175->1145
+1175->1205
+1205->1175
+1205->1235
+1235->1205
+1235->1265
+1265->1235
+1265->1295
+1295->1265
+1295->1325
+1325->1295
+1325->1086
+1086->1325
+1086->1116
+1116->1086
+1116->1146
+1146->1116
+1146->1176
+1176->1146
+1176->1206
+1206->1176
+1206->1236
+1236->1206
+1236->1266
+1266->1236
+1266->1296
+1296->1266
+1296->1326
+1326->1296
+1326->1087
+1087->1326
+1087->1117
+1117->1087
+1117->1147
+1147->1117
+1147->1177
+1177->1147
+1177->1207
+1207->1177
+1207->1237
+1237->1207
+1237->1267
+1267->1237
+1267->1297
+1297->1267
+1297->1327
+1327->1297
+1327->1088
+1088->1327
+1088->1118
+1118->1088
+1118->1148
+1148->1118
+1148->1178
+1178->1148
+1178->1208
+1208->1178
+1208->1238
+1238->1208
+1238->1268
+1268->1238
+1268->1298
+1298->1268
+1298->1328
+1328->1298
+1328->1089
+1089->1328
+1089->1119
+1119->1089
+1119->1149
+1149->1119
+1149->1179
+1179->1149
+1179->1209
+1209->1179
+1209->1239
+1239->1209
+1239->1269
+1269->1239
+1269->1299
+1299->1269
+1299->1329
+1329->1299
+1329->1090
+1090->1329
+1090->1120
+1120->1090
+1120->1150
+1150->1120
+1150->1180
+1180->1150
+1180->1210
+1210->1180
+1210->1240
+1240->1210
+1240->1270
+1270->1240
+1270->1300
+1300->1270
+1300->1330
+1330->1300
+1330->1091
+1091->1330
+1091->1121
+1121->1091
+1121->1151
+1151->1121
+1151->1181
+1181->1151
+1181->1211
+1211->1181
+1211->1241
+1241->1211
+1241->1271
+1271->1241
+1271->1301
+1301->1271
+1301->1331
+1331->1301
+1331->1092
+1092->1331
+1092->1122
+1122->1092
+1122->1152
+1152->1122
+1152->1182
+1182->1152
+1182->1212
+1212->1182
+1212->1242
+1242->1212
+1242->1272
+1272->1242
+1272->1302
+1302->1272
+1302->1332
+1332->1302
+1332->1093
+1093->1332
+1093->1123
+1123->1093
+1123->1153
+1153->1123
+1153->1183
+1183->1153
+1183->1213
+1213->1183
+1213->1243
+1243->1213
+1243->1273
+1273->1243
+1273->1303
+1303->1273
+1303->1333
+1333->1303
+1333->1094
+1094->1333
+1094->1124
+1124->1094
+1124->1154
+1154->1124
+1154->1184
+1184->1154
+1184->1214
+1214->1184
+1214->1244
+1244->1214
+1244->1274
+1274->1244
+1274->1304
+1304->1274
+1304->1334
+1334->1304
+1334->1095
+1095->1334
+1095->1125
+1125->1095
+1125->1155
+1155->1125
+1155->1185
+1185->1155
+1185->1215
+1215->1185
+1215->1245
+1245->1215
+1245->1275
+1275->1245
+1275->1305
+1305->1275
+1305->1335
+1335->1305
+1335->1096
+1096->1335
+1096->1126
+1126->1096
+1126->1156
+1156->1126
+1156->1186
+1186->1156
+1186->1216
+1216->1186
+1216->1246
+1246->1216
+1246->1276
+1276->1246
+1276->1306
+1306->1276
+1306->1336
+1336->1306
+1336->1097
+1097->1336
+1097->1127
+1127->1097
+1127->1157
+1157->1127
+1157->1187
+1187->1157
+1187->1217
+1217->1187
+1217->1247
+1247->1217
+1247->1277
+1277->1247
+1277->1307
+1307->1277
+1307->1337
+1337->1307
+1337->1098
+1098->1337
+1098->1128
+1128->1098
+1128->1158
+1158->1128
+1158->1188
+1188->1158
+1188->1218
+1218->1188
+1218->1248
+1248->1218
+1248->1278
+1278->1248
+1278->1308
+1308->1278
+1308->1338
+1338->1308
+1338->1099
+1099->1338
+1099->1129
+1129->1099
+1129->1159
+1159->1129
+1159->1189
+1189->1159
+1189->1219
+1219->1189
+1219->1249
+1249->1219
+1249->1279
+1279->1249
+1279->1309
+1309->1279
+1309->1339
+1339->1309
+1339->1100
+1100->1339
+1100->1130
+1130->1100
+1130->1160
+1160->1130
+1160->1190
+1190->1160
+1190->1220
+1220->1190
+1220->1250
+1250->1220
+1250->1280
+1280->1250
+1280->1310
+1310->1280
+1310->1340
+1340->1310
+1340->1101
+1101->1340
+1101->1131
+1131->1101
+1131->1161
+1161->1131
+1161->1191
+1191->1161
+1191->1221
+1221->1191
+1221->1251
+1251->1221
+1251->1281
+1281->1251
+1281->1311
+1311->1281
+1311->1341
+1341->1311
+1341->1102
+1102->1341
+1102->1132
+1132->1102
+1132->1162
+1162->1132
+1162->1192
+1192->1162
+1192->1222
+1222->1192
+1222->1252
+1252->1222
+1252->1282
+1282->1252
+1282->1312
+1312->1282
+1312->1342
+1342->1312
+1342->1103
+1103->1342
+1103->1133
+1133->1103
+1133->1163
+1163->1133
+1163->1193
+1193->1163
+1193->1223
+1223->1193
+1223->1253
+1253->1223
+1253->1283
+1283->1253
+1283->1313
+1313->1283
+1313->1343
+1343->1313
+1343->1104
+1104->1343
+1104->1134
+1134->1104
+1134->1164
+1164->1134
+1164->1194
+1194->1164
+1194->1224
+1224->1194
+1224->1254
+1254->1224
+1254->1284
+1284->1254
+1284->1314
+1314->1284
+1314->1344
+1344->1314
+1344->1105
+1105->1344
+1105->1135
+1135->1105
+1135->1165
+1165->1135
+1165->1195
+1195->1165
+1195->1225
+1225->1195
+1225->1255
+1255->1225
+1255->1285
+1285->1255
+1285->1315
+1315->1285
+1315->1345
+1345->1315
+1345->1106
+1106->1345
+1106->1136
+1136->1106
+1136->1166
+1166->1136
+1166->1196
+1196->1166
+1196->1226
+1226->1196
+1226->1256
+1256->1226
+1256->1286
+1286->1256
+1286->1316
+1316->1286
+1316->1346
+1346->1316
+1346->1107
+1107->1346
+1107->1137
+1137->1107
+1137->1167
+1167->1137
+1167->1197
+1197->1167
+1197->1227
+1227->1197
+1227->1257
+1257->1227
+1257->1287
+1287->1257
+1287->1317
+1317->1287
+1317->1347
+1347->1317
+1347->1108
+1108->1347
+1108->1138
+1138->1108
+1138->1168
+1168->1138
+1168->1198
+1198->1168
+1198->1228
+1228->1198
+1228->1258
+1258->1228
+1258->1288
+1288->1258
+1288->1318
+1318->1288
+1318->1348
+1348->1318
+1348->1109
+1109->1348
+1109->1139
+1139->1109
+1139->1169
+1169->1139
+1169->1199
+1199->1169
+1199->1229
+1229->1199
+1229->1259
+1259->1229
+1259->1289
+1289->1259
+1289->1319
+1319->1289
+1319->1349
+1349->1319
+
+}

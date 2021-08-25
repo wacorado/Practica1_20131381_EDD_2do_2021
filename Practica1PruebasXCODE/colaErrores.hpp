@@ -15,5 +15,7 @@ public:
     int getTamano();
     void imprimirCola();
     void encolar(int id, string tipo, string descripcion);
-    void desencolar (int id, string tipo, string descripcion);
+    int desencolar ();
+    void graficarCola();
+    bool esEstudiante();
 };

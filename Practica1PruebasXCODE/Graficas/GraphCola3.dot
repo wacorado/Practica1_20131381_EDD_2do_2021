@@ -1,0 +1,12 @@
+digraph List {
+rankdir=LR;
+node [shape = record, color=blue , style=filled, fillcolor=skyblue];
+3[label="Id: 3
+ Tipo: Tarea
+ Descripcion: Error en carnet de Tarea: 201024489",shape=record]
+4[label="Id: 4
+ Tipo: Tarea
+ Descripcion: Error en carnet de Tarea: 201024489",shape=record]
+3->4
+
+}

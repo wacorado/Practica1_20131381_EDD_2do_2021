@@ -1,0 +1,5 @@
+digraph List {
+rankdir=LR;
+node [shape = record, color=blue , style=filled, fillcolor=skyblue];
+
+}

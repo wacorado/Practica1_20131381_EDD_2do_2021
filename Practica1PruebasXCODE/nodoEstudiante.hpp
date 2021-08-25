@@ -45,4 +45,5 @@ public:
     void setEdad(string edad_);
     void setAnterior(nodoEstudiante * nodo_);
     void setSiguiente(nodoEstudiante *nodo_);
+ 
 };

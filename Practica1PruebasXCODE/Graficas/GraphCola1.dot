@@ -1,0 +1,20 @@
+digraph List {
+rankdir=LR;
+node [shape = record, color=blue , style=filled, fillcolor=skyblue];
+1[label="Id: 1
+ Tipo: Estudiante
+ Descripcion: Error DPI de Estudainte: 879575888",shape=record]
+2[label="Id: 2
+ Tipo: Tarea
+ Descripcion: Error en fecha de Tarea: 01/08/2021",shape=record]
+3[label="Id: 3
+ Tipo: Tarea
+ Descripcion: Error en carnet de Tarea: 201024489",shape=record]
+4[label="Id: 4
+ Tipo: Tarea
+ Descripcion: Error en carnet de Tarea: 201024489",shape=record]
+1->2
+2->3
+3->4
+
+}
